@@ -1,0 +1,444 @@
+,Patient First Name,Patient Last Name,MRN,DOB,Sex,Order Date,COVID19 Component Value,Height,Weight,Temp,Pulse,Systolic BP,Diastolic BP,Smoking Status,Last Pack Years,Medical History,Diagnosis from Problem List,PMH,Last EF Value,Current Medications,ED Vis Last 90 Days,Last ED Visit,ED Visits-Last 30 Days
+10,,,6960201,1952-07-25,M,2021-10-12,Detected,"1.702 m (5' 7"")",61.4 kg (135 lb 5.8 oz),38.9 °C (102 °F),83,(!) 89,54,Never Smoker,,"PONV (postoperative nausea and vomiting)
+Hodgkin lymphoma (HCC)
+Heart attack (HCC)
+Long COVID
+Acute COVID-19
+Systolic murmur
+BPH with elevated PSA
+Congestive heart failure, unspecified HF chronicity, unspecified heart failure type (HCC)
+Renal failure
+Atrial fibrillation, unspecified type (HCC)
+Myocarditis (HCC)
+Cardiac arrest (HCC)
+Syncope and collapse","Systolic murmur [R01.1]
+Dupuytren's contracture of left hand [M72.0]
+BPH with elevated PSA [N40.0, R97.20]
+Sepsis, due to unspecified organism, unspecified whether acute organ dysfunction present (HCC) [A41.9]
+Pneumonia due to infectious organism, unspecified laterality, unspecified part of lung [J18.9]
+Congestive heart failure, unspecified HF chronicity, unspecified heart failure type (HCC) [I50.9]
+Renal failure [N19]
+...","Systolic murmur - R01.1; BPH with elevated PSA - N40.0, R97.20; Congestive heart failure, unspecified HF chronicity, unspecified heart failure type (HCC) - I50.9; Renal failure - N19; Anemia - D64.9; Atrial fibrillation, unspecified type (HCC) - I48.91; Myocarditis (HCC) - I51.4; Stress hyperglycemia - R73.9; AKI (acute kidney injury) (HCC) - N17.9; Fever of unknown origin - R50.9; Tremor - R25.1; Lymphadenopathy of head and neck - R59.1; Chest pain - R07.9; Hodgkin lymphoma (HCC) - C81.90; Cardiac arrest (HCC) - I46.9; Blood transfusion abn reaction or complication, no procedure mishap - T80.92XA; On mechanically assisted ventilation (HCC) - Z99.11; Monoclonal B-cell lymphocytosis of undetermined significance - D72.820; Suspected COVID-19 virus infection - Z20.822; Infection due to 2019 novel coronavirus - U07.1; Vertigo - R42; Syncope and collapse - R55; Probable sepsis - R68.89; Severe sepsis (HCC) - A41.9, R65.20",50 to 55,There are too many medications to display. Please see the patient's chart for a complete list of medications.,4,11/7/2021,3
+75,,,6936645,1946-03-17,F,2021-10-10,Detected,"1.651 m (5' 5"")",104.8 kg (231 lb),36.8 °C (98.2 °F),75,175,(!) 103,Never Smoker,,"Pregnancy
+Pregnancy
+Pregnancy
+Pregnancy
+Pregnancy
+Hypertension
+Diabetes (HCC)
+Chicken pox
+Congestive heart failure (HCC)
+High cholesterol
+Shortness of breath
+GERD (gastroesophageal reflux disease)
+Type 2 diabetes mellitus (HCC)
+AV block
+NSTEMI (non-ST elevated myocardial infarction) (HCC)","Shortness of breath [R06.02]
+Actinic keratosis [L57.0]
+Chronic diastolic heart failure (HCC) [I50.32]
+Chronic kidney disease, stage III (moderate) (HCC) [N18.30]
+Osteoarthritis [M19.90]
+Complication of diabetes mellitus (HCC) [E11.8]
+Diastolic dysfunction [I51.89]
+Acute gastritis [K29.00]
+Hyperlipidemia [E78.5]
+BP (high blood pressure) [I10]
+Osteoarthritis of knee [M17.10]
+Restless legs syndrome [G25.81]
+...","Actinic keratosis - L57.0; Chronic diastolic heart failure (HCC) - I50.32; Chronic kidney disease, stage III (moderate) (HCC) - N18.30; Osteoarthritis - M19.90; Complication of diabetes mellitus (HCC) - E11.8; Diastolic dysfunction - I51.89; Acute gastritis - K29.00; Hyperlipidemia - E78.5; BP (high blood pressure) - I10; Osteoarthritis of knee - M17.10; Restless legs syndrome - G25.81; NSVT (nonsustained ventricular tachycardia) (HCC) - I47.2; Chest tightness - R07.89; Uncontrolled hypertension - I10; Bilateral leg edema - R60.0; Vertigo - R42; Venous stasis - I87.8; Coronary artery disease involving native coronary artery of native heart - I25.10; Essential hypertension - I10; Presence of cardiac pacemaker - Z95.0; Aspiration pneumonia of right middle lobe due to gastric secretions (HCC) - J69.0; Acute pulmonary edema (HCC) - J81.0; SOB (shortness of breath) - R06.02; AV block, 2nd degree - I44.1; NSTEMI (non-ST elevated myocardial infarction) (HCC) - I21.4; Chest pain - R07.9; Chest pain, unspecified type - R07.9; Dementia with behavioral disturbance, unspecified dementia type (HCC) - F03.91; Morbid (severe) obesity due to excess calories (HCC) - E66.01",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,3,11/8/2021,1
+94,,,7435087,1940-09-24,F,2021-10-08,Detected,"1.651 m (5' 5"")",98 kg (216 lb),36.5 °C (97.7 °F),61,166,(!) 107,Former Smoker,,"Diabetes mellitus (HCC)
+Essential hypertension
+Arrhythmia
+Congestive heart failure (HCC)
+COPD (chronic obstructive pulmonary disease) (HCC)
+Pulmonary fibrosis (HCC)
+Acute kidney failure (HCC)","Chronic diastolic heart failure (HCC) [I50.32]
+Anticoagulated [Z79.01]
+Chronic atrial fibrillation (HCC) [I48.20]
+Chronic venous insufficiency [I87.2]
+Diabetes mellitus (HCC) [E11.9]
+Acquired hypothyroidism [E03.9]
+Hypoxia [R09.02]
+Acute on chronic congestive heart failure, unspecified heart failure type (HCC) [I50.9]
+Interstitial lung disease due to connective tissue disease (HCC) [J84.89, M35.9]
+...","Chronic diastolic heart failure (HCC) - I50.32; Anticoagulated - Z79.01; Chronic atrial fibrillation (HCC) - I48.20; Chronic venous insufficiency - I87.2; Diabetes mellitus (HCC) - E11.9; Acquired hypothyroidism - E03.9; Hypoxia - R09.02; Acute on chronic congestive heart failure, unspecified heart failure type (HCC) - I50.9; Interstitial lung disease due to connective tissue disease (HCC) - J84.89, M35.9; Severe pulmonary arterial systolic hypertension (HCC) - I27.21; Mediastinal adenopathy - R59.0; Pneumonia due to 2019 novel coronavirus - U07.1, J12.82",51.36,There are too many medications to display. Please see the patient's chart for a complete list of medications.,1,10/8/2021,0
+131,,,6247644,1973-10-01,M,2021-10-08,Detected,"1.803 m (5' 10.98"")",123.6 kg (272 lb 7.8 oz),36 °C (96.8 °F),80,128,75,Former Smoker,18.0,"HTN (hypertension)
+GERD (gastroesophageal reflux disease)
+Arthritis
+Schizoaffective disorder (HCC)
+Closed fracture of unspecified bone
+Schizophrenia (HCC)
+Gout
+Diabetes mellitus type II
+Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus
+Gout","GERD (gastroesophageal reflux disease) [K21.9]
+HTN (hypertension) [I10]
+Arthritis [M19.90]
+Schizoaffective disorder (HCC) [F25.9]
+Anxiety [F41.9]
+Schizophrenia (HCC) [F20.9]
+Migraine [G43.909]
+RA (rheumatoid arthritis) (HCC) [M06.9]
+Acne [L70.9]
+Gout [M10.9]
+Hyperglycemia [R73.9]
+Chronic pain [G89.29]
+Diabetes mellitus (HCC) [E11.9]
+Diabetes mellitus (HCC) [E11.9]
+Left shoulder pain [M25.512]
+Hyperlipidemia [E78.5]
+...","GERD (gastroesophageal reflux disease) - K21.9; Migraine - G43.909; Hyperlipidemia - E78.5; Pseudophakia - Z96.1; Class 2 obesity with body mass index (BMI) of 35.0 to 35.9 in adult - E66.9, Z68.35; Idiopathic chronic gout of right knee without tophus - M1A.0610; Primary insomnia - F51.01; Type 2 diabetes mellitus with diabetic cataract, with long-term current use of insulin (HCC) - E11.36, Z79.4; Essential hypertension - I10; Schizoaffective disorder, bipolar type (HCC) - F25.0; Type 2 diabetes mellitus with hyperglycemia, with long-term current use of insulin (HCC) - E11.65, Z79.4; On pre-exposure prophylaxis for HIV - Z79.899",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,1,10/8/2021,0
+256,,,7687833,1949-03-25,M,2021-10-05,Detected,"1.6 m (5' 3"")",55.2 kg (121 lb 11.1 oz),35.7 °C (96.3 °F),96,100,60,Never Smoker,,"Cataract
+Borderline glaucoma
+Epiretinal membrane (ERM) of left eye
+Headache
+Diabetes mellitus, type 2 (HCC)
+High cholesterol
+Dizziness and giddiness
+Symptomatic menopausal or female climacteric states
+Polyuria","Epiretinal membrane (ERM) of left eye [H35.372]
+Combined forms of age-related cataract of both eyes [H25.813]
+Asteroid hyalosis of left eye [H43.22]
+Corneal epithelial basement membrane dystrophy [H18.529]
+Diabetes mellitus type 2 without retinopathy (HCC) [E11.9]
+Glaucoma suspect, left eye [H40.002]
+Carpal tunnel syndrome [G56.00]
+Type 2 diabetes mellitus without complication (HCC) [E11.9]
+Pure hypercholesterolemia [E78.00]
+...","Epiretinal membrane (ERM) of left eye - H35.372; Combined forms of age-related cataract of both eyes - H25.813; Asteroid hyalosis of left eye - H43.22; Corneal epithelial basement membrane dystrophy - H18.529; Glaucoma suspect, left eye - H40.002; Carpal tunnel syndrome - G56.00; Type 2 diabetes mellitus without complication (HCC) - E11.9; Pure hypercholesterolemia - E78.00; Erythrocytosis - D75.1; Ulnar neuropathy of left upper extremity - G56.22; Migraines - G43.909; Age-related nuclear cataract of both eyes - H25.13; Borderline glaucoma - H40.009",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,0,,0
+323,,,7388271,1956-02-21,M,2021-10-03,Detected,"1.7 m (5' 6.93"")",99.9 kg (220 lb 3.8 oz),36.8 °C (98.2 °F),81,121,74,Never Smoker,,"Essential hypertension
+Asthma
+High cholesterol
+Malignant neoplasm (HCC)
+Congestive heart failure (HCC)
+Colon cancer (HCC)
+Type 2 diabetes mellitus (HCC)
+Dementia (HCC)
+Acute respiratory failure with hypercapnia (HCC)","Hypervolemia, unspecified hypervolemia type [E87.70]
+Asthma [J45.909]
+Respiratory acidosis [E87.2]
+Cardiomegaly [I51.7]
+Other ascites [R18.8]
+Sacroiliac joint disease [M53.3]
+Mediastinal lymphadenopathy [R59.0]
+Acute systolic heart failure (HCC) [I50.21]
+Type 2 diabetes mellitus without complication, with long-term current use of insulin (HCC) [E11.9, Z79.4]
+Shortness of breath [R06.02]
+Heart failure (HCC) [I50.9]
+...","Asthma - J45.909; Cardiomegaly - I51.7; Sacroiliac joint disease - M53.3; Mediastinal lymphadenopathy - R59.0; Type 2 diabetes mellitus without complication, with long-term current use of insulin (HCC) - E11.9, Z79.4; Elevated troponin - R77.8; CHF (congestive heart failure), NYHA class I, acute on chronic, systolic (HCC) - I50.23; Mixed hyperlipidemia - E78.2; OSA (obstructive sleep apnea) - G47.33; Uncontrolled type 2 diabetes mellitus with hyperglycemia (HCC) - E11.65; Lower respiratory tract infection due to COVID-19 virus - U07.1, J22; Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure (HCC) - I50.43; Hyponatremia - E87.1; Acute on chronic congestive heart failure, unspecified heart failure type (HCC) - I50.9; Hyperglycemia - R73.9; Methamphetamine use (HCC) - F15.10; Non-sustained ventricular tachycardia (HCC) - I47.2; Acute COVID-19 - U07.1; Elevation of levels of liver transaminase levels - R74.01",26.06,There are too many medications to display. Please see the patient's chart for a complete list of medications.,1,10/3/2021,0
+387,,,6058853,1940-11-22,M,2021-09-30,Detected,"1.803 m (5' 11"")",143.8 kg (317 lb),36.7 °C (98.1 °F),60,120,70,Never Smoker,,"HTN (hypertension)
+OSA (obstructive sleep apnea)","Dupuytren contracture [M72.0]
+Carpal tunnel syndrome [G56.00]
+Cecal cancer (HCC) [C18.0]
+Morbid obesity with BMI of 45.0-49.9, adult (HCC) [E66.01, Z68.42]
+Type 2 diabetes mellitus with mild nonproliferative retinopathy of right eye and macular edema (HCC) [E11.3211]
+OSA (obstructive sleep apnea) [G47.33]
+HTN (hypertension) [I10]
+Benign hypertensive heart disease with heart failure (HCC) [I11.0]
+Colon polyps [K63.5]
+...","Dupuytren contracture - M72.0; Carpal tunnel syndrome - G56.00; Cecal cancer (HCC) - C18.0; Morbid obesity with BMI of 45.0-49.9, adult (HCC) - E66.01, Z68.42; Type 2 diabetes mellitus with mild nonproliferative retinopathy of right eye and macular edema (HCC) - E11.3211; OSA (obstructive sleep apnea) - G47.33; HTN (hypertension) - I10; Benign hypertensive heart disease with heart failure (HCC) - I11.0; Colon polyps - K63.5; Kidney stone on right side - N20.0; Right leg swelling - M79.89; Retinopathy - H35.00; Mixed hyperlipidemia - E78.2; Malignant neoplasm of rectum (HCC) - C20; Major depressive disorder, single episode, unspecified - F32.9; Hyperlipidemia - E78.5; Gout, unspecified - M10.9; Anal fissure - K60.2; CAD (coronary artery disease) - I25.10; Esophageal reflux - K21.9; Vitreous degeneration, bilateral - H43.813; Other seborrheic keratosis - L82.1; Presence of intraocular lens - Z96.1; Chronic diastolic heart failure (HCC) - I50.32; LBBB (left bundle branch block) - I44.7; Heart block AV first degree - I44.0; Essential hypertension, benign - I10",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,0,,0
+471,,,1621148,1945-02-16,F,2021-09-28,Detected,"1.6 m (5' 2.99"")",79.6 kg (175 lb 7.8 oz),36.7 °C (98.1 °F),95,(!) 69,42,Never Smoker,,"Rheumatoid arthritis(714.0) (HCC)
+Drug-induced osteoporosis
+HBP (high blood pressure)
+Atrial fibrillation (HCC)
+Arrhythmia
+Asthma
+Type 2 diabetes mellitus (HCC)
+Anxiety state
+PONV (postoperative nausea and vomiting)
+Panic disorder
+Migraine
+Depression
+Post herpetic neuralgia
+Monoclonal B-cell lymphocytosis of undetermined significance
+Tubular adenoma of colon","Rheumatoid arthritis (HCC) [M06.9]
+Encounter for long-term (current) use of medications [Z79.899]
+Adjustment disorder with anxiety [F43.22]
+Allergic rhinitis [J30.9]
+Anxiety state [F41.1]
+Benign neoplasm of colon [D12.6]
+Benign neoplasm of stomach [D13.1]
+Diverticulosis of large intestine [K57.30]
+Depressive disorder, not elsewhere classified [F32.9]
+Internal hemorrhoids [K64.8]
+Temporomandibular joint disorder [M26.609]
+...","Rheumatoid arthritis (HCC) - M06.9; Adjustment disorder with anxiety - F43.22; Allergic rhinitis - J30.9; Depressive disorder, not elsewhere classified - F32.9; Internal hemorrhoids - K64.8; Drug-induced osteoporosis - M81.8, T50.905A; Depression - F32.A; S/P total knee replacement using cement - Z96.659; HTN (hypertension) - I10; Post herpetic neuralgia - B02.29; Asthma - J45.909; Monoclonal B-cell lymphocytosis of undetermined significance - D72.820; Other persistent atrial fibrillation (HCC) - I48.19; Type 2 diabetes mellitus without complication (HCC) - E11.9; Moderate persistent asthma with acute exacerbation - J45.41; Tubular adenoma of colon - D12.6; Mixed hyperlipidemia - E78.2; Skin ulcer (HCC) - L98.499; Statin intolerance - Z78.9; Elevated lipoprotein(a) - E78.41; Dyspnea on exertion - R06.00; Nonrheumatic mitral valve regurgitation - I34.0; Nonrheumatic tricuspid valve regurgitation - I36.1; Chronic heart failure with preserved ejection fraction (HCC) - I50.32; RVF (right ventricular failure) (HCC) - I50.810; Hypertension, unspecified type - I10; Internal carotid artery occlusion, bilateral - I65.23; Moderate persistent asthma without complication - J45.40; Chronic obstructive pulmonary disease (HCC) - J44.9; Liver failure without hepatic coma (HCC) - K72.90; Acute liver failure without hepatic coma - K72.00; Hepatic encephalopathy (HCC) - K72.90; AKI (acute kidney injury) (HCC) - N17.9; COVID-19 viremia - U07.1; Heart failure with acute decompensation, type un...",61.89,There are too many medications to display. Please see the patient's chart for a complete list of medications.,2,9/28/2021,0
+590,,,801239,1955-01-31,F,2021-09-26,Detected,"1.75 m (5' 8.9"")",81.5 kg (179 lb 10.8 oz),36.7 °C (98.1 °F),79,134,59,Former Smoker,,"Arthropathy, unspecified, site unspecified
+Other malignant neoplasm without specification of site
+Other general symptoms(780.99)
+Blindness of both eyes, impairment level not further specified
+Unspecified essential hypertension
+Symptomatic menopausal or female climacteric states
+Unspecified disorder of thyroid
+Gait disorder","Ataxia [R27.0]
+Spinal cord injury, cervical region, initial encounter (HCC) [S14.109A]","Ataxia - R27.0; Spinal cord injury, cervical region, initial encounter (HCC) - S14.109A",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,0,,0
+627,,,6303186,1970-05-11,F,2021-09-24,Detected,"1.619 m (5' 3.75"")",78.7 kg (173 lb 8 oz),35.8 °C (96.5 °F),76,148,80,Never Smoker,,"Inflammatory arthritis
+Depressive disorder, not elsewhere classified
+High cholesterol
+Calculus of kidney
+Vitamin D insufficiency
+Fibromyalgia
+Hypertension
+Hypothyroidism
+Unspecified sleep apnea
+GERD (gastroesophageal reflux disease)
+Dry eyes
+Diabetes mellitus (HCC)
+Gastroparesis
+Asthma","Inflammatory arthritis [M19.90]
+Hypokalemia [E87.6]
+Sinus tachycardia [R00.0]
+Hypertension [I10]
+Hypothyroidism [E03.9]
+Overweight [E66.3]
+Vitamin D insufficiency [E55.9]
+Hematochezia [K92.1]
+Chest pain [R07.9]
+Fibromyalgia [M79.7]
+B12 deficiency [E53.8]
+Elevated fasting glucose [R73.01]
+Cervical radiculopathy [M54.12]
+Type 2 diabetes mellitus with diabetic nephropathy (HCC) [E11.21]
+Low back pain [M54.5]
+...","Hypokalemia - E87.6; Sinus tachycardia - R00.0; Hypertension - I10; Hypothyroidism - E03.9; Vitamin D insufficiency - E55.9; Fibromyalgia - M79.7; B12 deficiency - E53.8; Cervical radiculopathy - M54.12; Type 2 diabetes mellitus with diabetic nephropathy (HCC) - E11.21; Disc degeneration, lumbosacral - M51.37; Hypertriglyceridemia - E78.1; GIB (gastrointestinal bleeding) - K92.2; GERD (gastroesophageal reflux disease) - K21.9; Seasonal allergies - J30.2; Psoriatic arthritis (HCC) - L40.50; Mild intermittent asthma without complication - J45.20; Abnormal gait - R26.9; Trigeminal neuralgia - G50.0; Asthma - J45.909; Chronic bilateral low back pain with sciatica - M54.40, G89.29; Neck pain - M54.2; Chronic bilateral low back pain without sciatica - M54.50, G89.29; Cauda equina syndrome (HCC) - G83.4; Lumbar radiculopathy - M54.16; Chalazion of left eye - H00.16; Congestive splenomegaly - D73.2; Hepatic steatosis - K76.0; Chronic abdominal pain - R10.9, G89.29; Abdominal distention - R14.0; Generalized edema - R60.1; Hives - L50.9; Subacute sinusitis - J01.90; Mechanical ptosis, left - H02.412; Abdominal obesity and metabolic syndrome - E88.81; Pneumonia due to COVID-19 virus - U07.1, J12.82",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,0,6/30/2021,0
+629,,,6000639,1957-10-27,M,2021-09-24,Detected,"1.88 m (6' 2"")",104.2 kg (229 lb 12.8 oz),36.8 °C (98.2 °F),77,149,83,Former Smoker,,"Malignant neoplasm of supraglottis (HCC)
+Hypothyroidism (acquired)
+HTN (hypertension)
+GERD (gastroesophageal reflux disease)
+Undiagnosed cardiac murmurs
+Pneumonia due to organism
+Shortness of breath
+Hernia, hiatal
+Renal failure
+UTI (urinary tract infection)
+Type 2 diabetes mellitus (HCC)","Malignant neoplasm of supraglottis (HCC) [C32.1]
+Hypothyroidism (acquired) [E03.9]
+CAP (community acquired pneumonia) [J18.9]
+Pneumonia, organism unspecified(486) [J18.9]
+Aspiration pneumonia (HCC) [J69.0]
+Bacteremia [R78.81]
+Diabetes mellitus type 2, uncontrolled (HCC) [E11.65]
+Pneumonia [J18.9]
+Lower urinary tract infectious disease [N39.0]
+Hyperglycemia [R73.9]
+Hyponatremia [E87.1]
+Bacteremia [R78.81]
+...","Hypothyroidism (acquired) - E03.9; Diabetes mellitus type 2, uncontrolled (HCC) - E11.65; Lower urinary tract infectious disease - N39.0; Abscess, prostate - N41.2; Atrial fibrillation (HCC) - I48.91; Unintentional weight loss - R63.4; Stress-induced cardiomyopathy - I51.81; Hyperlipidemia - E78.5; History of laryngectomy - Z90.02; History of colon polyps - Z86.010; Essential hypertension - I10; Emphysema of lung (HCC) - J43.9; Acute renal failure with tubular necrosis (HCC) - N17.0; Duodenal adenocarcinoma (HCC) - C17.0; Peri-ampullary carcinoma (HCC) - C24.8; Iron deficiency anemia - D50.9; Hypoxia - R09.02; Leukocytosis - D72.829",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,1,,0
+642,,,6024383,1945-11-27,F,2021-09-27,Detected,"1.753 m (5' 9"")",117.9 kg (259 lb 14.8 oz),36.5 °C (97.7 °F),60,139,89,Former Smoker,20.0,"Essential hypertension
+High cholesterol
+Diabetes mellitus (HCC)
+Congestive heart failure (HCC)
+Asthma
+Glaucoma
+Diabetic retinopathy (HCC)
+Disorder of thyroid
+Acute, but ill-defined, cerebrovascular disease
+Neuropathy
+Sleep apnea
+Unspecified osteoarthritis, unspecified site","Allergic rhinitis with postnasal drip [J30.9, R09.82]
+Anxiety state [F41.1]
+Aortic valve stenosis [I35.0]
+Asthma [J45.909]
+Atony of bladder [N31.2]
+Acquired hypothyroidism [E03.9]
+Barrett's esophagus [K22.70]
+Benign essential hypertension [I10]
+Obesity with body mass index 30 or greater [E66.9]
+Chronic coronary artery disease [I25.10]
+FH: cataracts [Z83.518]
+Psychologic conversion disorder [F44.9]
+...","Allergic rhinitis with postnasal drip - J30.9, R09.82; Anxiety state - F41.1; Aortic valve stenosis - I35.0; Asthma - J45.909; Atony of bladder - N31.2; Acquired hypothyroidism - E03.9; Barrett's esophagus - K22.70; Benign essential hypertension - I10; Obesity with body mass index 30 or greater - E66.9; FH: cataracts - Z83.518; Psychologic conversion disorder - F44.9; H/O degenerative disc disease - Z87.39; Antibiotic prophylaxis for dental procedure indicated due to prior joint replacement - IMO0002; Anaclitic depression - F43.20; Diverticulosis of colon - K57.30; Type 2 diabetes mellitus with hyperglycemia, with long-term current use of insulin (HCC) - E11.65, Z79.4; Edema - R60.9; Gastroesophageal reflux disease - K21.9; Glaucoma - H40.9; Hiatal hernia - K44.9; Mixed hyperlipidemia - E78.2; Insomnia - G47.00; History of total knee replacement - Z96.659; Kyphosis - M40.209; Sensorineural hearing loss - H90.5; Low back pain - M54.50; Mastalgia in female - N64.4; Memory loss - R41.3; Mitral regurgitation - I34.0; Morbid obesity (HCC) - E66.01; Obesity - E66.9; Osteoarthritis, knee - M17.10; Other ganglion and cyst of synovium, tendon, and bursa - M67.49, M71.39, M67.89; Peripheral vascular disease (HCC) - I73.9; Personal history of colonic polyps - Z86.010; Urinary incontinence - R32; UTI (urinary tract infection) - N39.0; Varicose veins of left lower extremity - I83.92; Cobalamin deficiency - E53.8; Vitamin D deficiency - E55.9; Postoperative hypothyroidism - E89.0; Histo...",50 to 55,There are too many medications to display. Please see the patient's chart for a complete list of medications.,1,9/24/2021,0
+644,,,7116711,1951-01-01,M,2021-09-23,Detected,"1.753 m (5' 9"")",93.8 kg (206 lb 12.8 oz),36.3 °C (97.4 °F),91,134,86,Former Smoker,6.25,"COPD (chronic obstructive pulmonary disease) (HCC)
+Allergic conjunctivitis
+Atopic rhinitis
+HTN (hypertension)
+External hemorrhoids
+Benign prostatic hyperplasia
+Gastroesophageal reflux disease
+Constipation
+Hypercholesterolemia
+Primary osteoarthritis of both knees
+Former smoker
+Vision loss
+Stab wound
+Tubular adenoma of colon","Chronic obstructive asthma (HCC) [J44.9]
+HTN (hypertension) [I10]
+Hypercholesterolemia [E78.00]
+COPD (chronic obstructive pulmonary disease) (HCC) [J44.9]
+Influenza [J11.1]
+Chronic obstructive pulmonary disease (HCC) [J44.9]
+Allergic conjunctivitis [H10.10]
+Allergic rhinitis [J30.9]
+Arthritis of knee [M17.10]
+Atopic rhinitis [J30.9]
+Benign prostatic hyperplasia [N40.0]
+Dental caries [K02.9]
+External hemorrhoids [K64.4]
+...","HTN (hypertension) - I10; Hypercholesterolemia - E78.00; COPD (chronic obstructive pulmonary disease) (HCC) - J44.9; Allergic conjunctivitis - H10.10; Atopic rhinitis - J30.9; Benign prostatic hyperplasia - N40.0; Dental caries - K02.9; External hemorrhoids - K64.4; Gastroesophageal reflux disease - K21.9; Primary osteoarthritis of both knees - M17.0; Constipation - K59.00; Paralysis of upper limb (HCC) - G83.20; Annual physical exam - Z00.00; Tubular adenoma of colon - D12.6; Vision loss, bilateral - H54.3; Nuclear senile cataract of both eyes - H25.13; Snoring - R06.83; Chronic fatigue - R53.82; Class 1 obesity due to excess calories in adult - E66.09; Chronic right-sided thoracic back pain - M54.6, G89.29; Epigastric pain - R10.13; Low ferritin - R79.0; Low vitamin D level - R79.89",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,0,,0
+682,,,660314,1932-07-28,M,2021-09-27,Detected,"1.73 m (5' 8.11"")",68.4 kg (150 lb 12.7 oz),36.6 °C (97.8 °F),149,121,89,Former Smoker,30.0,"Acute, but ill-defined, cerebrovascular disease","Abnormal findings on diagnostic imaging of lung [R91.8]
+Asbestos-induced pleural plaque [J92.0]
+Bilateral nonexudative age-related macular degeneration [H35.3130]
+Presence of intraocular lens [Z96.1]
+Benign prostatic hyperplasia [N40.0]
+Cervical disc disorder [M50.90]
+Asthma [J45.909]
+Essential hypertension [I10]
+Presbycusis of both ears [H91.13]
+Bilateral hearing loss [H91.93]
+History of malignant neoplasm of prostate [Z85.46]
+...","Asbestos-induced pleural plaque - J92.0; Bilateral nonexudative age-related macular degeneration - H35.3130; Presence of intraocular lens - Z96.1; Benign prostatic hyperplasia - N40.0; Cervical disc disorder - M50.90; Asthma - J45.909; Essential hypertension - I10; Presbycusis of both ears - H91.13; Bilateral hearing loss - H91.93; History of malignant neoplasm of prostate - Z85.46; History of malignant melanoma of skin - Z85.820; History of stroke without residual deficits - Z86.73; Mild cognitive impairment - G31.84; Calculus of kidney - N20.0; Stenosis of right carotid artery - I65.21; Coronary artery disease involving native coronary artery of native heart with angina pectoris (HCC) - I25.119; Mixed hyperlipidemia - E78.2; History of alcohol use disorder - Z87.898; Stroke due to occlusion of right middle cerebral artery (HCC) - I63.511; NSTEMI (non-ST elevation myocardial infarction) (HCC) - I21.4; Hemorrhagic cystitis - N30.91; Asymptomatic COVID-19 virus infection - U07.1; Closed fracture of multiple ribs of left side, initial encounter - S22.42XA; Fall at home, initial encounter - W19.XXXA, Y92.009",20 to 25,There are too many medications to display. Please see the patient's chart for a complete list of medications.,3,,0
+756,,,1586644,1931-03-03,M,2021-09-22,Detected,1.829 m (6'),83.9 kg (184 lb 15.5 oz),36.5 °C (97.7 °F),78,154,60,Never Assessed,,,"Subdural hematoma (HCC) [S06.5X9A]
+Intraparenchymal hemorrhage of brain (HCC) [I61.9]",Subdural hematoma (HCC) - S06.5X9A; Intraparenchymal hemorrhage of brain (HCC) - I61.9,,There are too many medications to display. Please see the patient's chart for a complete list of medications.,3,,0
+758,,,8165217,1984-07-30,M,2021-09-22,Detected,"1.87 m (6' 1.62"")",68.6 kg (151 lb 3.8 oz),36.3 °C (97.3 °F),73,115,71,Never Assessed,,,"Diffuse TBI w loss of consciousness of unsp duration, init (HCC) [S06.2X9A]","Diffuse TBI w loss of consciousness of unsp duration, init (HCC) - S06.2X9A",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,1,9/21/2021,0
+812,,,8164247,1975-04-02,M,2021-09-20,Detected,"1.7 m (5' 6.93"")",67 kg (147 lb 11.3 oz),36.4 °C (97.5 °F),91,121,67,Never Assessed,,,"Laceration of liver, initial encounter [S36.113A]
+Bicycle rider struck in motor vehicle accident, initial encounter [V19.9XXA]
+Traumatic hemopneumothorax, initial encounter [S27.2XXA]
+Renal artery hemorrhage [N28.89]
+Trauma [T14.90XA]","Laceration of liver, initial encounter - S36.113A; Bicycle rider struck in motor vehicle accident, initial encounter - V19.9XXA; Traumatic hemopneumothorax, initial encounter - S27.2XXA; Renal artery hemorrhage - N28.89; Trauma - T14.90XA",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,2,,0
+958,,,663377,1974-08-27,M,2021-09-16,Detected,"1.626 m (5' 4"")",(!) 42.2 kg (93 lb),36.6 °C (97.9 °F),84,155,(!) 112,Current Every Day Smoker,11.0,"Post-traumatic paraplegia
+Traumatic injury of the kidney
+History of splenectomy
+Hepatitis C
+Neurogenic bladder
+Recurrent UTI
+Nephrolithiasis
+Liver laceration, closed
+Depression
+Chronic back pain
+Drug-seeking behavior
+Seizure (HCC)
+Hypertension
+MRSA infection
+TTP (thrombotic thrombocytopenic purpura)
+Narcotic abuse
+Gastric ulcer
+Hydronephrosis
+PTSD (post-traumatic stress disorder)
+Allergic rhinitis
+Calcifying tendinitis of shoulder
+Hepatitis C
+Chronic UTI (urinary tract infection)
+Steroid-induced psychosis
+Acute kidney failure (HCC)
+Anemia
+MRSA (methicillin resistant Staphylococcus aureus)
+Pyuria
+Congenital generalized flexion contractures of lower limb joints
+Thrombotic microangiopathy
+Pyelonephritis
+Cellulitis
+Osteomyelitis (HCC)
+Other social stressor
+Bacteremia
+Deep venous thrombosis (HCC)
+Hypoxia
+Seizure (HCC)
+Scoliosis
+Chronic pain
+Anal fissure
+Leukocytosis
+Anxiety
+Gastroparesis
+Controlled substance agreement signed
+Kidney stone","Scoliosis [M41.9]
+Rotator cuff tear
+Tendinitis [M77.9]
+PTSD (post-traumatic stress disorder) [F43.10]
+Depression [F32.9]
+Pyuria [R82.81]
+Paraplegia (HCC) [G82.20]
+Pyelonephritis [N12]
+Anemia [D64.9]
+TTP (thrombotic thrombocytopenic purpura) [M31.1]
+Thrombocytopenia (HCC) [D69.6]
+S/P splenectomy [Z90.81]
+Urinary tract infection [N39.0]
+Psychosis (HCC) [F29]
+Pyelonephritis [N12]
+Shoulder pain, left [M25.512]
+Anemia [D64.9]
+...","Scoliosis - M41.9; PTSD (post-traumatic stress disorder) - F43.10; Depression - F32.A; S/P splenectomy - Z90.81; Anemia - D64.9; Septic arthritis of shoulder, left (HCC) - M00.9; Septic arthritis of shoulder, right (HCC) - M00.9; Post-traumatic paraplegia - T14.90XS; Traumatic injury of the kidney - S37.009A; Neurogenic bladder - N31.9; Recurrent UTI - N39.0; Nephrolithiasis - N20.0; Liver laceration, closed - S36.113A; Drug-seeking behavior - Z76.5; Seizure (HCC) - R56.9; MRSA infection - A49.02; Pulmonary hypertension (HCC) - I27.20; Superior vena cava obstruction with collaterals - I87.1; Deep venous thrombosis (HCC) - I82.409; Opiate abuse, episodic (HCC) - F11.10; Osteomyelitis (HCC) - M86.9; Leukocytosis - D72.829; Pressure ulcer - L89.90; Narcotic addiction (HCC) - F11.20; Hydronephrosis - N13.30; Gastroparesis - K31.84; AA (alcohol abuse) - F10.10; Chronic hepatitis C (HCC) - B18.2; Decubital ulcer - L89.90; H/O splenectomy - Z90.81; Hypertensive pulmonary vascular disease (HCC) - I27.20; Moschcowitz syndrome - M31.19; Nausea - R11.0; Pyelonephritis, acute - N10; Left flank pain - R10.9; Chronic pain - G89.29; Suicidal ideation - R45.851; Chronic pain due to trauma - G89.21; Depression, unspecified depression type - F32.A; Hydronephrosis, unspecified hydronephrosis type - N13.30; Stone, kidney - N20.0",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,1,9/8/2021,0
+969,,,6340380,1944-10-20,M,2021-09-16,Detected,"1.854 m (6' 1"")",132.7 kg (292 lb 8 oz),36.5 °C (97.7 °F),96,127,63,Former Smoker,6.0,"Chronic diastolic HF (heart failure), NYHA class 3 (HCC)
+Dyslipidemia
+Atrial fibrillation (HCC)
+CKD (chronic kidney disease)
+Hypertension
+Anemia of chronic kidney failure
+Hyperlipidemia
+Type 2 diabetes mellitus (HCC)
+Hearing loss
+Elevated troponin
+Congestive heart failure (HCC)
+Arrhythmia
+Encounter for extracorporeal dialysis (HCC)
+Pneumonia due to organism
+Shortness of breath
+Heart attack (HCC)","Acute on chronic renal failure (HCC) [N17.9, N18.9]
+CHF (congestive heart failure), NYHA class IV (HCC) [I50.9]
+DM type 2 causing CKD stage 4 (HCC) [E11.22, N18.4]
+DM type 2 causing CKD stage 4 (HCC) [E11.22, N18.4]
+CHF (NYHA class IV, ACC/AHA stage D) (HCC) [I50.9]
+Chronic systolic heart failure (HCC) [I50.22]
+Bradycardia, drug induced [R00.1, T50.905A]
+Hypotension due to drugs [I95.2]
+...","CHF (NYHA class IV, ACC/AHA stage D) (HCC) - I50.84; Chronic systolic heart failure (HCC) - I50.22; Type 2 diabetes, uncontrolled, with renal manifestation (HCC) - E11.29, E11.65; Atrial fibrillation (HCC) - I48.91; Anticoagulated on warfarin - Z79.01; Hypertension - I10; Anemia in other chronic diseases classified elsewhere - D63.8; Morbid obesity with BMI of 40.0-44.9, adult (HCC) - E66.01, Z68.41; Hyperkalemia - E87.5; Orthostasis - I95.1; Elevated troponin - R77.8; Diarrhea - R19.7; Dehydration - E86.0; Diarrhea, unspecified type - R19.7; CKD (chronic kidney disease) stage 5, GFR less than 15 ml/min (HCC) - N18.5; Aspiration into airway, initial encounter - T17.908A; Hypernatremia - E87.0; Pneumonia of left lower lobe due to infectious organism - J18.9; Permanent atrial fibrillation (HCC) - I48.21; Acute kidney injury (HCC) - N17.9; Congestive heart failure, unspecified HF chronicity, unspecified heart failure type (HCC) - I50.9; Stage 5 chronic kidney disease not on chronic dialysis (HCC) - N18.5; 2019 novel coronavirus disease (COVID-19) - U07.1; Acute on chronic anemia - D64.9; Weakness - R53.1",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,2,10/22/2021,1
+971,,,7934812,2001-09-16,M,2021-09-19,Detected,"1.69 m (5' 6.54"")",61.6 kg (135 lb 12.9 oz),37.7 °C (99.9 °F),86,133,68,Never Smoker,,ALL (acute lymphoblastic leukemia of infant) (HCC),"Leukocytosis [D72.829]
+Anemia [D64.9]
+Thrombocytopenia (HCC) [D69.6]
+Immunocompromised state (HCC) [D84.9]
+Philadelphia chromosome positive acute lymphoblastic leukemia (ALL) (HCC) [C91.00]
+Primary HSV infection of mouth [B00.2]
+Idiopathic hematuria [N02.9]
+ALL (acute lymphoid leukemia) in remission (HCC) [C91.01]
+ARF (acute renal failure) (HCC) [N17.9]
+Muscular deconditioning [R29.898]
+...","Immunocompromised state (HCC) - D84.9; Philadelphia chromosome positive acute lymphoblastic leukemia (ALL) (HCC) - C91.00; Primary HSV infection of mouth - B00.2; ALL (acute lymphoid leukemia) in remission (HCC) - C91.01; ARF (acute renal failure) (HCC) - N17.9; Muscular deconditioning - R29.898; Central line complication, initial encounter - T82.9XXA; Admission for chemotherapy - Z51.11",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,1,,0
+985,,,564447,1975-11-06,F,2021-09-16,Detected,"1.66 m (5' 5.35"")",60.9 kg (134 lb 4.2 oz),36.2 °C (97.2 °F),90,104,66,Former Smoker,0.2,"Lupus (systemic lupus erythematosus) (HCC)
+Hypertension
+Lupus nephritis (HCC)
+Antiphospholipid antibody syndrome (HCC)
+History of Cytoxan exposure
+Sleep apnea
+Irritable bowel syndrome
+Anxiety state
+Hemorrhagic diathesis (HCC)
+Congestive heart failure (HCC)
+Renal failure","Renal failure [N19]
+WPW (Wolff-Parkinson-White syndrome) [I45.6]
+Kidney transplanted [Z94.0]
+Immunosuppressive management encounter following kidney transplant [Z79.899, Z94.0]
+Abnormal coagulation profile [R79.1]
+Other pulmonary embolism and infarction [I26.99]
+DVT of lower extremity (deep venous thrombosis) (HCC) [I82.409]
+Hypomagnesemia [E83.42]
+Hypophosphatemia [E83.39]
+Prophylactic antibiotic [Z79.2]
+...","WPW (Wolff-Parkinson-White syndrome) - I45.6; Kidney transplanted - Z94.0; Immunosuppressive management encounter following kidney transplant - Z79.899, Z94.0; History of antiphospholipid antibody syndrome - Z86.2; Long term current use of anticoagulant therapy - Z79.01; Metabolic bone disease - E88.9, M90.80; Essential hypertension, benign - I10; SLE (systemic lupus erythematosus) (HCC) - M32.9; GERD (gastroesophageal reflux disease) - K21.9; Kidney transplant rejection - T86.11; Hyperuricemia - E79.0; Health maintenance examination - Z00.00; History of Cytoxan exposure - Z92.21; Proteinuria - R80.9; Acidemia - E87.2; Cervical dysplasia - N87.9; CIN III (cervical intraepithelial neoplasia III) - D06.9; VIN III (vulvar intraepithelial neoplasia III) - D07.1; Vaginal bleeding - N93.9; Acute hypoxemic respiratory failure (HCC) - J96.01; Volume overload - E87.70; AKI (acute kidney injury) (HCC) - N17.9; Acute gout due to renal impairment involving toe of left foot - M10.372; Heart failure with preserved ejection fraction (HCC) - I50.30; Neck swelling - R22.1; Cervical intraepithelial neoplasm - N87.9; ARDS (adult respiratory distress syndrome) (HCC) - J80; Pneumonia due to COVID-19 virus - U07.1, J12.82; At risk for malnutrition - Z91.89; Atrial fibrillation with RVR (HCC) - I48.91; Heart failure with acute decompensation, type unknown (HCC) - I50.9; Anemia - D64.9; Anxiety state - F41.1; Pain - R52; Hemorrhagic shock (HCC) - R57.8; Hematoma of bladder wall - S37.22XA; Bladde...",65 to 70,There are too many medications to display. Please see the patient's chart for a complete list of medications.,2,,1
+1114,,,7306160,1960-01-26,F,2021-09-13,Detected,"1.6 m (5' 3"")",141.1 kg (311 lb),37.1 °C (98.8 °F),96,126,85,Never Smoker,,"Essential hypertension
+High cholesterol
+Diabetes mellitus (HCC)
+Depression
+Anemia
+Morbid obesity (HCC)
+Environmental allergies
+Lab test positive for detection of COVID-19 virus
+OSA on CPAP
+Asthma
+GERD (gastroesophageal reflux disease)
+Post-cholecystectomy syndrome
+Chronic kidney disease (CKD), stage III (moderate) (HCC)
+Type 2 diabetes mellitus (HCC)
+Cataract
+Anxiety state
+Migraine","Arthritis [M19.90]
+Asthma [J45.909]
+Benign essential hypertension [I10]
+Type 2 diabetes mellitus (HCC) [E11.9]
+Gastroesophageal reflux disease [K21.9]
+Multiple-type hyperlipidemia [E78.2]
+OSA on CPAP [G47.33, Z99.89]
+Type 2 diabetes mellitus with diabetic polyneuropathy (HCC) [E11.42]
+Moderate episode of recurrent major depressive disorder (HCC) [F33.1]
+Chronic pain syndrome [G89.4]
+Chronic prescription opiate use [Z79.891]
+...","Arthritis - M19.90; Asthma - J45.909; Benign essential hypertension - I10; Type 2 diabetes mellitus (HCC) - E11.9; Gastroesophageal reflux disease - K21.9; Multiple-type hyperlipidemia - E78.2; OSA on CPAP - G47.33, Z99.89; Type 2 diabetes mellitus with diabetic polyneuropathy (HCC) - E11.42; Moderate episode of recurrent major depressive disorder (HCC) - F33.1; Chronic pain syndrome - G89.4; Chronic prescription opiate use - Z79.891; Chronic pain of left knee - M25.562, G89.29; Morbid obesity (HCC) - E66.01; Chronic kidney disease, stage 3 (HCC) - N18.30; Need for vaccination - Z23; Post-cholecystectomy syndrome - K91.5; Medication management - Z79.899; Long-term current use of proton pump inhibitor therapy - Z79.899; Colon cancer screening - Z12.11",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,0,,0

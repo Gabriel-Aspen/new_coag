@@ -1,0 +1,478 @@
+,Patient First Name,Patient Last Name,MRN,DOB,Sex,Order Date,COVID19 Component Value,Height,Weight,Temp,Pulse,Systolic BP,Diastolic BP,Smoking Status,Last Pack Years,Medical History,Diagnosis from Problem List,PMH,Last EF Value,Current Medications,ED Vis Last 90 Days,Last ED Visit,ED Visits-Last 30 Days
+5,,,601481,1972-07-05,M,2021-10-12,Detected,1.829 m (6'),71.4 kg (157 lb 4.8 oz),36.7 °C (98 °F),67,149,88,Current Every Day Smoker,20.0,"Unspecified retinal detachment
+Hypertension
+Alcoholic pancreatitis
+Chronic alcoholism (HCC)","Dislocation, lens, posterior [H27.139]
+Retinal detachment with retinal defect [H33.009]
+Severe uncontrolled hypertension [I10]
+Alcohol-induced acute pancreatitis, unspecified complication status [K85.20]
+Epigastric abdominal pain [R10.13]
+Essential hypertension [I10]
+Hypertension [I10]
+Retinal detachment [H33.20]
+Chronic alcoholism (HCC) [F10.20]
+Alcoholic pancreatitis [K85.20]
+Prolonged Q-T interval on ECG [R94.31]
+...","Dislocation, lens, posterior - H27.139; Retinal detachment with retinal defect - H33.009; Severe uncontrolled hypertension - I10; Epigastric abdominal pain - R10.13; Essential hypertension - I10; Hypertension - I10; Retinal detachment - H33.20; Chronic alcoholism (HCC) - F10.20; Alcoholic pancreatitis - K85.20; Prolonged Q-T interval on ECG - R94.31; Perforated duodenal ulcer (HCC) - K26.5; Abdominal pain, unspecified abdominal location - R10.9; Vomiting, intractability of vomiting not specified, presence of nausea not specified, unspecified vomiting type - R11.10; Dehydration - E86.0; Alcohol-induced chronic pancreatitis (HCC) - K86.0; Hyperbilirubinemia - E80.6; Alcoholism (HCC) - F10.20; Acute recurrent pancreatitis - K85.90; Alcohol-induced acute pancreatitis, unspecified complication status - K85.20; Hypokalemia - E87.6; Hypomagnesemia - E83.42; Hypertension, unspecified type - I10; Acute pancreatitis without infection or necrosis - K85.90; Lab test positive for detection of COVID-19 virus - U07.1; Nausea - R11.0; Pancreatitis, recurrent - K85.90",,amLODIPine 5 mg oral tablet,2,10/30/2021,1
+10,,,6960201,1952-07-25,M,2021-10-12,Detected,"1.702 m (5' 7"")",61.4 kg (135 lb 5.8 oz),38.9 °C (102 °F),83,(!) 89,54,Never Smoker,,"PONV (postoperative nausea and vomiting)
+Hodgkin lymphoma (HCC)
+Heart attack (HCC)
+Long COVID
+Acute COVID-19
+Systolic murmur
+BPH with elevated PSA
+Congestive heart failure, unspecified HF chronicity, unspecified heart failure type (HCC)
+Renal failure
+Atrial fibrillation, unspecified type (HCC)
+Myocarditis (HCC)
+Cardiac arrest (HCC)
+Syncope and collapse","Systolic murmur [R01.1]
+Dupuytren's contracture of left hand [M72.0]
+BPH with elevated PSA [N40.0, R97.20]
+Sepsis, due to unspecified organism, unspecified whether acute organ dysfunction present (HCC) [A41.9]
+Pneumonia due to infectious organism, unspecified laterality, unspecified part of lung [J18.9]
+Congestive heart failure, unspecified HF chronicity, unspecified heart failure type (HCC) [I50.9]
+Renal failure [N19]
+...","Systolic murmur - R01.1; BPH with elevated PSA - N40.0, R97.20; Congestive heart failure, unspecified HF chronicity, unspecified heart failure type (HCC) - I50.9; Renal failure - N19; Anemia - D64.9; Atrial fibrillation, unspecified type (HCC) - I48.91; Myocarditis (HCC) - I51.4; Stress hyperglycemia - R73.9; AKI (acute kidney injury) (HCC) - N17.9; Fever of unknown origin - R50.9; Tremor - R25.1; Lymphadenopathy of head and neck - R59.1; Chest pain - R07.9; Hodgkin lymphoma (HCC) - C81.90; Cardiac arrest (HCC) - I46.9; Blood transfusion abn reaction or complication, no procedure mishap - T80.92XA; On mechanically assisted ventilation (HCC) - Z99.11; Monoclonal B-cell lymphocytosis of undetermined significance - D72.820; Suspected COVID-19 virus infection - Z20.822; Infection due to 2019 novel coronavirus - U07.1; Vertigo - R42; Syncope and collapse - R55; Probable sepsis - R68.89; Severe sepsis (HCC) - A41.9, R65.20",50 to 55,There are too many medications to display. Please see the patient's chart for a complete list of medications.,4,11/7/2021,3
+31,,,6023647,1946-07-26,F,2021-10-11,Detected,"1.6 m (5' 3"")",83.4 kg (183 lb 14.4 oz),37.2 °C (99 °F),60,141,(!) 55,Former Smoker,,"Symptomatic menopausal or female climacteric states
+Type II or unspecified type diabetes mellitus without mention of complication, not stated as uncontrolled
+HTN (hypertension)
+Diabetic retinopathy (HCC)
+Diabetes mellitus, type 2 (HCC)
+Seizure (HCC)
+Hyperlipemia
+Meningioma (HCC)
+Seizure (HCC)
+Hemorrhagic diathesis (HCC)
+Renal failure
+Brain tumor (benign) (HCC)","Type II or unspecified type diabetes mellitus with ophthalmic manifestations, not stated as uncontrolled(250.50) (HCC) [E11.39]
+Diabetic macular edema (HCC) [E11.311]
+Diabetes mellitus with background retinopathy (HCC) [E11.3299]
+Dry eye syndrome [H04.129]
+Type 2 diabetes mellitus with both eyes affected by severe nonproliferative retinopathy without macular edema, with long-term current use of insulin (HCC) [E11.3493, Z79.4]
+...","Dry eye syndrome - H04.129; Type 2 diabetes mellitus with both eyes affected by severe nonproliferative retinopathy without macular edema, with long-term current use of insulin (HCC) - E11.3493, Z79.4; Meningioma (HCC) - D32.9; Seizure (HCC) - R56.9; Diabetic polyneuropathy associated with type 2 diabetes mellitus (HCC) - E11.42; Diabetic nephropathy associated with type 2 diabetes mellitus (HCC) - E11.21; Mixed hyperlipidemia - E78.2; Benign essential HTN - I10; Pseudophakia, both eyes - Z96.1; Dry eyes - H04.123; Acute ischemic colitis (HCC) - K55.039; Chronic anemia - D64.9; Small intestinal bacterial overgrowth - K63.89; Anemia of chronic renal failure - N18.9, D63.1; Kidney disease, chronic, stage IV (GFR 15-29 ml/min) (HCC) - N18.4",,"amLODIPine 10 mg oral tablet; calcium carbonate/vitamin D3 (VITAMIN D-3 ORAL); DEXCOM G6 RECEIVER miscellaneous (misc) misc; DEXCOM G6 SENSOR miscellaneous (misc) device; DEXCOM G6 TRANSMITTER miscellaneous (misc) device; famotidine 20 mg oral tablet; FREESTYLE LITE STRIPS miscellaneous (misc) strip; furosemide 20 mg oral tablet; insulin glargine (LANTUS SOLOSTAR U-100 INSULIN) 100 unit/mL (3 mL) subcutaneous insulin pen; insulin lispro (HUMALOG KWIKPEN INSULIN) 100 unit/mL subcutaneous insulin pen; LEVETIRACETAM 500 mg oral tablet; lisinopriL 40 mg oral tablet; lovastatin 40 mg oral tablet; MELATONIN ORAL; metoprolol succinate 100 mg oral tablet extended release 24 hr; ondansetron ODT 4 mg oral tablet,disintegrating; ZINC ORAL",2,10/11/2021,1
+34,,,7911265,1962-04-01,M,2021-10-11,Detected,1.829 m (6'),131.2 kg (289 lb 3.2 oz),37.2 °C (99 °F),80,143,78,Never Smoker,,"TIA (transient ischemic attack)
+Knee pain, left
+Atrial fibrillation (HCC)
+Sleep apnea","HTN (hypertension), benign [I10]
+Other hyperlipidemia [E78.49]
+PAF (paroxysmal atrial fibrillation) (HCC) [I48.0]
+TIA (transient ischemic attack) [G45.9]
+OSA (obstructive sleep apnea) [G47.33]
+Tinnitus [H93.19]
+History of lip cancer [Z85.819]
+Colon polyp [K63.5]
+Prediabetes [R73.03]","HTN (hypertension), benign - I10; Other hyperlipidemia - E78.49; PAF (paroxysmal atrial fibrillation) (HCC) - I48.0; TIA (transient ischemic attack) - G45.9; OSA (obstructive sleep apnea) - G47.33; Tinnitus - H93.19; History of lip cancer - Z85.819; Colon polyp - K63.5; Prediabetes - R73.03",,albuterol 90 mcg/actuation inhalation HFA aerosol inhaler; amLODIPine 5 mg oral tablet; losartan (COZAAR) 100 mg oral tablet; MAGNESIUM ORAL; metoprolol succinate 50 mg oral tablet extended release 24 hr; rivaroxaban 20 mg oral tablet; rosuvastatin 5 mg oral tablet,1,10/15/2021,1
+75,,,6936645,1946-03-17,F,2021-10-10,Detected,"1.651 m (5' 5"")",104.8 kg (231 lb),36.8 °C (98.2 °F),75,175,(!) 103,Never Smoker,,"Pregnancy
+Pregnancy
+Pregnancy
+Pregnancy
+Pregnancy
+Hypertension
+Diabetes (HCC)
+Chicken pox
+Congestive heart failure (HCC)
+High cholesterol
+Shortness of breath
+GERD (gastroesophageal reflux disease)
+Type 2 diabetes mellitus (HCC)
+AV block
+NSTEMI (non-ST elevated myocardial infarction) (HCC)","Shortness of breath [R06.02]
+Actinic keratosis [L57.0]
+Chronic diastolic heart failure (HCC) [I50.32]
+Chronic kidney disease, stage III (moderate) (HCC) [N18.30]
+Osteoarthritis [M19.90]
+Complication of diabetes mellitus (HCC) [E11.8]
+Diastolic dysfunction [I51.89]
+Acute gastritis [K29.00]
+Hyperlipidemia [E78.5]
+BP (high blood pressure) [I10]
+Osteoarthritis of knee [M17.10]
+Restless legs syndrome [G25.81]
+...","Actinic keratosis - L57.0; Chronic diastolic heart failure (HCC) - I50.32; Chronic kidney disease, stage III (moderate) (HCC) - N18.30; Osteoarthritis - M19.90; Complication of diabetes mellitus (HCC) - E11.8; Diastolic dysfunction - I51.89; Acute gastritis - K29.00; Hyperlipidemia - E78.5; BP (high blood pressure) - I10; Osteoarthritis of knee - M17.10; Restless legs syndrome - G25.81; NSVT (nonsustained ventricular tachycardia) (HCC) - I47.2; Chest tightness - R07.89; Uncontrolled hypertension - I10; Bilateral leg edema - R60.0; Vertigo - R42; Venous stasis - I87.8; Coronary artery disease involving native coronary artery of native heart - I25.10; Essential hypertension - I10; Presence of cardiac pacemaker - Z95.0; Aspiration pneumonia of right middle lobe due to gastric secretions (HCC) - J69.0; Acute pulmonary edema (HCC) - J81.0; SOB (shortness of breath) - R06.02; AV block, 2nd degree - I44.1; NSTEMI (non-ST elevated myocardial infarction) (HCC) - I21.4; Chest pain - R07.9; Chest pain, unspecified type - R07.9; Dementia with behavioral disturbance, unspecified dementia type (HCC) - F03.91; Morbid (severe) obesity due to excess calories (HCC) - E66.01",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,3,11/8/2021,1
+79,,,7462380,1983-03-01,M,2021-10-09,Detected,None,66.1 kg (145 lb 11.2 oz),36.4 °C (97.5 °F),90,127,78,Current Every Day Smoker,,,"Acute bronchopneumonia [J18.0]
+Intracranial hemorrhage (HCC) [I62.9]
+Laceration of scalp, initial encounter [S01.01XA]
+Pedestrian injured in traffic accident involving motor vehicle, initial encounter [V09.20XA]","Acute bronchopneumonia - J18.0; Intracranial hemorrhage (HCC) - I62.9; Laceration of scalp, initial encounter - S01.01XA; Pedestrian injured in traffic accident involving motor vehicle, initial encounter - V09.20XA",,acetaminophen 500 mg oral tablet,11,10/16/2021,7
+80,,,8179333,1954-02-02,M,2021-10-09,Detected,None,97.3 kg (214 lb 8.1 oz),36.9 °C (98.4 °F),67,138,61,Former Smoker,64.0,"Dementia (HCC)
+Lung cancer metastatic to brain (HCC)
+CVA (cerebral vascular accident) (HCC)
+HTN (hypertension)
+Seizure disorder (HCC)
+A-fib (HCC)
+CAD (coronary artery disease)","Multifocal pneumonia [J18.9]
+Longstanding persistent atrial fibrillation (HCC) [I48.11]
+Anticoagulated [Z79.01]
+Dementia associated with other underlying disease with behavioral disturbance (HCC) [F02.81]
+Lung cancer metastatic to brain (HCC) [C34.90, C79.31]
+Chronic ischemic right anterior cerebral artery stroke [I69.30]
+Dysarthria [R47.1]
+History of seizures [Z87.898]
+Transient alteration of awareness [R40.4]
+...","Multifocal pneumonia - J18.9; Longstanding persistent atrial fibrillation (HCC) - I48.11; Anticoagulated - Z79.01; Dementia associated with other underlying disease with behavioral disturbance (HCC) - F02.81; Lung cancer metastatic to brain (HCC) - C34.90, C79.31; Chronic ischemic right anterior cerebral artery stroke - I69.30; Dysarthria - R47.1; History of seizures - Z87.898; Transient alteration of awareness - R40.4; Acute COVID-19 - U07.1; Toxic metabolic encephalopathy - G92.8; Encounter for monitoring anticonvulsant therapy - Z51.81, Z79.899",55 to 60,"acetaminophen 325 mg oral tablet; albuterol 90 mcg/actuation inhalation HFA aerosol inhaler; apixaban 5 mg oral tablet; artificial tears (dextran 70-hypromellose-glycerin) 0.1-0.3-0.2 % ophthalmic (eye) drops; atorvastatin 10 mg oral tablet; calcium carbonate chewable 200 mg calcium (500 mg) oral tablet,chewable; cholecalciferol (Vitamin D3) 1,000 unit oral tablet; citalopram 20 mg oral tablet; levETIRAcetam 1,000 mg oral tablet; Lidocaine 4 % topical adhesive patch,medicated; metoprolol tartrate 25 mg oral tablet; multivitamin oral tablet; omeprazole 20 mg oral capsule,delayed release(DR/EC); polyethylene glycol 17 gram oral powder in packet; senna 8.6 mg oral tablet",2,10/9/2021,1
+88,,,852034,1962-01-26,F,2021-10-09,Detected,1.524 m (5'),106.6 kg (235 lb 0.2 oz),37 °C (98.6 °F),(!) 108,123,82,Former Smoker,,Diabetes (HCC),"Acute respiratory failure with hypoxia (HCC) [J96.01]
+Suspected 2019 novel coronavirus infection [Z20.822]
+Type 2 diabetes mellitus, without long-term current use of insulin (HCC) [E11.9]
+Anxiety [F41.9]
+SIRS (systemic inflammatory response syndrome) (HCC) [R65.10]
+COVID [U07.1]
+Depression [F32.A]
+History of hysterectomy [Z90.710]
+Polycythemia [D75.1]
+...","Acute respiratory failure with hypoxia (HCC) - J96.01; Type 2 diabetes mellitus, without long-term current use of insulin (HCC) - E11.9; COVID - U07.1; Depression - F32.A; History of hysterectomy - Z90.710; Polycythemia - D75.1; Type 2 diabetes mellitus without complication, without long-term current use of insulin (HCC) - E11.9; Anemia - D64.9",,"Alcohol Swabs (ALCOHOL PREP SWABS) topical pads, medicated; atorvastatin 20 mg oral tablet; Blood Sugar Diagnostic (ONETOUCH ULTRA TEST) miscellaneous (misc) strip; buPROPion XL 150 mg oral tablet extended release 24 hr; CALCIUM 600 WITH VITAMIN D3 600 MG(1,500 MG)-400 UNIT CHEWABLE TABLET; insulin NPH 100 unit/mL subcutaneous suspension; lancets (ONE TOUCH DELICA) 33 gauge miscellaneous (misc) misc; lisinopriL 5 mg oral tablet; metFORMIN SR 500 mg oral tablet extended release 24 hr",2,10/23/2021,1
+92,,,8177740,1990-05-22,F,2021-10-08,Detected,"1.77 m (5' 9.69"")",54.4 kg (120 lb),37 °C (98.6 °F),(!) 101,111,69,Never Smoker,,"Asthma
+Bronchitis
+Asthma",,,,"albuterol 90 mcg/actuation inhalation HFA aerosol inhaler; lidocaine 5 % topical adhesive patch,medicated",3,10/16/2021,1
+99,,,6936158,1938-03-25,F,2021-10-08,Detected,"1.778 m (5' 10"")",72.6 kg (160 lb),36.4 °C (97.5 °F),83,130,76,Never Smoker,,"Plantar fasciitis
+Foot pain
+Acute pancreatitis
+Skin cancer
+Hyperlipidemia
+Barrett's esophagus
+Seizure disorder (HCC)
+Diabetes (HCC)
+Hypertension
+Stage 2 chronic kidney disease","HLD (hyperlipidemia) [E78.5]
+Climacteric [N95.1]
+Acne erythematosa [L71.9]
+Epilepsy (HCC) [G40.909]
+Barrett's esophagus without dysplasia [K22.70]
+Murmur, cardiac [R01.1]
+Type 2 diabetes mellitus without complication (HCC) [E11.9]
+Diastolic dysfunction [I51.89]
+CKD (chronic kidney disease) stage 2, GFR 60-89 ml/min [N18.2]
+Hypertension [I10]
+Status epilepticus (HCC) [G40.901]
+...","HLD (hyperlipidemia) - E78.5; Epilepsy (HCC) - G40.909; Barrett's esophagus without dysplasia - K22.70; Murmur, cardiac - R01.1; Type 2 diabetes mellitus without complication (HCC) - E11.9; Diastolic dysfunction - I51.89; CKD (chronic kidney disease) stage 2, GFR 60-89 ml/min - N18.2; Hypertension - I10; Cognitive dysfunction - F09; Difficulty walking - R26.2; Combined receptive and expressive aphasia due to acute cerebrovascular accident (CVA) (HCC) - I63.9, R47.01; Hyponatremia - E87.1; Seizure (HCC) - R56.9; SARS-CoV-2 positive - U07.1",,"ascorbic acid (vitamin C) (VITAMIN C) 500 mg oral tablet; aspirin EC 81 mg oral tablet,delayed release (DR/EC); atorvastatin (LIPITOR) 40 mg oral tablet; cholecalciferol, Vitamin D3, 1,000 unit oral capsule; docusate sodium (STOOL SOFTENER) 100 mg oral capsule; elderberry fruit (ELDERBERRY OR); Fish Oil-Omega-3 Fatty Acids 340-1,000 mg oral capsule; FLUTICASONE PROPIONATE 50 mcg/actuation nasal spray,suspension; folic acid 0.4 mg oral tablet; LEVETIRACETAM 1,000 mg oral tablet; melatonin 10 mg oral tablet,ext release multiphase; mirtazapine 30 mg oral tablet; nystatin 100,000 unit/gram topical powder; Psyllium Husk (FIBER THERAPY LAXATIVE (HUSK)) 0.52 gram oral capsule; sodium chloride 0.65 % nasal aerosol,spray",2,10/23/2021,1
+109,,,6759133,1966-05-02,F,2021-10-08,Detected,"1.651 m (5' 5"")",65.8 kg (145 lb),36.5 °C (97.7 °F),70,110,88,Current Every Day Smoker,7.5,"PID (acute pelvic inflammatory disease)
+Hypertension
+Chronic airway obstruction (HCC)
+GERD (gastroesophageal reflux disease)
+Depressive disorder","TOA (tubo-ovarian abscess) [N70.93]
+Pelvic pain [R10.2]
+Infection due to 2019 novel coronavirus [U07.1]",TOA (tubo-ovarian abscess) - N70.93; Pelvic pain - R10.2; Infection due to 2019 novel coronavirus - U07.1,,"acetaminophen (TYLENOL) tablet 650 mg; azithromycin (AZITHROMYCIN (AKA Z-PAK)) 250 mg oral tablet; budesonide-formoteroL 160-4.5 mcg/actuation inhalation HFA aerosol inhaler; doxycycline hyclate 100 mg oral tablet; metroNIDAZOLE 500 mg oral tablet; omeprazole 20 mg oral capsule,delayed release(DR/EC); oxyCODONE (immediate release) 5 mg oral tablet",1,10/29/2021,1
+120,,,6814620,1977-12-24,F,2021-10-08,Detected,"1.499 m (4' 11"")",100.7 kg (222 lb),36.8 °C (98.2 °F),64,100,60,Never Smoker,,"Cardiomyopathy (HCC)
+Leukocytosis
+Iron deficiency anemia
+Achilles tendonitis
+Depression
+Headache
+Congestive heart failure (HCC)
+Arthropathy","Anemia [D64.9]
+Disease of blood and blood forming organ [D75.9]
+Cardiomyopathy (HCC) [I42.9]
+CHF (NYHA class II, ACC/AHA stage C) (HCC) [I50.9]
+Gastroesophageal reflux disease [K21.9]
+Impaired fasting glucose [R73.01]
+Morbid obesity due to excess calories (HCC) [E66.01]
+Obstructive sleep apnea syndrome [G47.33]
+Cystitis [N30.90]
+Cystocele, lateral [N81.12]
+Thrombocythemia [D75.839]
+...","Anemia - D64.9; Disease of blood and blood forming organ - D75.9; Cardiomyopathy (HCC) - I42.9; CHF (NYHA class II, ACC/AHA stage C) (HCC) - I50.9; Gastroesophageal reflux disease - K21.9; Impaired fasting glucose - R73.01; Morbid obesity due to excess calories (HCC) - E66.01; Obstructive sleep apnea syndrome - G47.33; Cystitis - N30.90; Cystocele, lateral - N81.12; Thrombocythemia - D75.839; Mixed stress and urge urinary incontinence - N39.46; Recurrent UTI - N39.0; PID (acute pelvic inflammatory disease) - N73.0; Noncompliance with CPAP treatment - Z91.14; Menorrhagia - N92.0; IUD (intrauterine device) in place - Z97.5; Incomplete uterovaginal prolapse - N81.2; Hydrosalpinx - N70.11; Depression - F32.A",45 to 50,"albuterol 90 mcg/actuation inhalation HFA aerosol inhaler; benzonatate 100 mg oral capsule; carvediloL 6.25 mg oral tablet; fluticasone propionate (FLOVENT HFA) 44 mcg/actuation inhalation HFA aerosol inhaler; FUROSEMIDE 20 mg oral tablet; ibuprofen 200 mg oral tablet; lisinopril 2.5 mg oral tablet; loratadine 10 mg oral tablet; nystatin 100,000 unit/gram topical powder; OMEPRAZOLE 40 mg oral capsule,delayed release(DR/EC); ondansetron ODT 4 mg oral tablet,disintegrating; spironolactone 25 mg oral tablet; trospium 20 mg oral tablet; venlafaxine 75 mg oral tablet",1,,1
+157,,,2011286,1972-07-06,F,2021-10-07,Detected,"1.626 m (5' 4"")",81.6 kg (180 lb),37 °C (98.6 °F),77,137,78,Light Tobacco Smoker,,"Fibromyalgia
+Depression
+PTSD (post-traumatic stress disorder)
+ADHD (attention deficit hyperactivity disorder)","Insomnia [G47.00]
+Major depressive disorder [F32.9]
+Methamphetamine dependence (HCC) [F15.20]
+Tobacco use disorder [F17.200]",Insomnia - G47.00; Major depressive disorder - F32.9; Methamphetamine dependence (HCC) - F15.20; Tobacco use disorder - F17.200,,"CYANOCOBALAMIN, VITAMIN B-12, ORAL; cyclobenzaprine 5 mg oral tablet; gabapentin 300 mg oral capsule; ibuprofen 200 mg oral tablet; ondansetron ODT 4 mg oral tablet,disintegrating; prenatal vitamins (with calcium) iron-folic acid 27 mg iron- 1 mg oral tablet",3,10/7/2021,1
+178,,,8175173,1962-09-30,F,2021-10-06,Detected,None,None,37.1 °C (98.8 °F),72,125,81,Current Every Day Smoker,,Arthritis,,,,"cetirizine 10 mg oral tablet; oxymetazoline 0.05 % nasal spray,non-aerosol",2,10/13/2021,1
+189,,,6621524,1930-07-05,F,2021-10-06,Detected,None,None,37.3 °C (99.1 °F),97,142,92,Former Smoker,,"Rheumatic fever
+Fibromyalgia
+Scarlet fever
+Arthritis
+Tuberculosis
+Rift Valley fever
+Glaucoma
+Cataract",,,,ALBUTEROL INHL; ALPRAZOLAM (XANAX ORAL); clopidogrel (PLAVIX) 75 mg oral tablet; fluticasone-salmeterol (ADVAIR DISKUS) 250-50 mcg/dose inhalation Disk with Device; levothyroxine 25 mcg oral tablet; metoprolol succinate 50 mg oral tablet extended release 24 hr; OMEPRAZOLE ORAL; POTASSIUM CHLORIDE (KLOR-CON M20 ORAL); sertraline 50 mg oral tablet; simvastatin 20 mg oral tablet; timolol 0.5 % ophthalmic Drops; triamterene-hydrochlorothiazide (MAXZIDE) 75-50 mg oral tablet,2,10/6/2021,1
+200,,,7034503,1958-07-03,M,2021-10-06,Detected,"1.803 m (5' 11"")",72.6 kg (160 lb),37.2 °C (99 °F),88,114,82,Never Smoker,,"Essential hypertension
+Rheumatoid arthritis (HCC)
+Hyperlipidemia
+GERD (gastroesophageal reflux disease)",Tubular adenoma of colon [D12.6],Tubular adenoma of colon - D12.6,,"dextromethorphan-guaiFENesin 10-100 mg/5 mL oral syrup; lisinopril 5 mg oral tablet; loperamide 2 mg oral capsule; omeprazole 10 mg oral capsule,delayed release(DR/EC); ondansetron ODT 4 mg oral tablet,disintegrating; predniSONE 5 mg oral tablet",2,10/6/2021,1
+280,,,6436315,2001-07-17,F,2021-10-04,Detected,"1.702 m (5' 7"")",72.6 kg (160 lb),36.7 °C (98.1 °F),79,111,68,Never Smoker,,"Kidney stone
+Muscle weakness (generalized)
+Charcot-Marie-Tooth disease","Kidney stone [N20.0]
+Slipped capital femoral epiphysis [M93.003]
+Hip pain, left [M25.552]
+Charcot-Marie-Tooth disease [G60.0]
+Retained orthopedic hardware [Z96.9]","Kidney stone - N20.0; Slipped capital femoral epiphysis - M93.003; Hip pain, left - M25.552; Charcot-Marie-Tooth disease - G60.0; Retained orthopedic hardware - Z96.9",,"aspirin EC 325 mg oral tablet,delayed release (DR/EC); diazePAM 5 mg oral tablet; ferrous sulfate (IRON) 325 mg total salt (65 mg elemental) oral tablet; gabapentin 300 mg oral capsule; gabapentin 300 mg oral capsule; ibuprofen 200 mg oral tablet; naproxen 500 mg oral tablet; norgestimate-ethinyl estradiol 0.18/0.215/0.25 mg-25 mcg oral tablet; oxyCODONE (immediate release) 5 mg oral tablet; oxyCODONE (immediate release) 5 mg oral tablet; oxyCODONE (immediate release) 5 mg oral tablet; oxyCODONE (immediate release) 5 mg oral tablet; senna-docusate (SENNA-S) 8.6-50 mg oral tablet",1,,1
+302,,,7458177,2006-09-21,F,2021-10-04,Detected,"157.5 cm (5' 2"")",86 kg (189 lb 8 oz),36.9 °C (98.4 °F),100,100,72,Never Smoker,,"Headache
+Anxiety
+Depression","Depression [F32.A]
+Foster child [Z62.21]
+Scar of forehead [L90.5]
+Dental caries [K02.9]
+Child previously sexually abused [Z62.810]
+Patellar instability of right knee [M25.361]",Depression - F32.A; Foster child - Z62.21; Scar of forehead - L90.5; Dental caries - K02.9; Child previously sexually abused - Z62.810; Patellar instability of right knee - M25.361,,escitalopram oxalate 10 mg oral tablet; hydrOXYzine 25 mg oral tablet; ibuprofen 200 mg oral tablet; Melatonin 5 mg oral capsule,1,,1
+312,,,6529908,1986-08-19,F,2021-10-04,Detected,"1.651 m (5' 5"")",127.4 kg (280 lb 13.9 oz),36.4 °C (97.5 °F),97,106,76,Former Smoker,5.0,"Anemia
+Depression
+Malignant neoplasm (HCC)
+BRCA1 gene mutation positive
+Breast cancer (HCC)
+Anxiety state
+Hypertension
+GERD (gastroesophageal reflux disease)","Triple negative malignant neoplasm of breast (HCC) [C50.919]
+Dehydration [E86.0]
+BRCA1-associated protein-1 tumor predisposition syndrome [Z15.01, Z15.09, Z15.02]
+Chemotherapy induced neutropenia (HCC) [D70.1, T45.1X5A]
+Malignant neoplasm of lower-outer quadrant of right breast of female, estrogen receptor negative (HCC) [C50.511, Z17.1]
+BRCA1 positive [Z15.01, Z15.09]
+Closed fracture of metatarsal bone [S92.309A]
+...","Triple negative malignant neoplasm of breast (HCC) - C50.919; Dehydration - E86.0; BRCA1-associated protein-1 tumor predisposition syndrome - Z15.01, Z15.09, Z15.02; Chemotherapy induced neutropenia (HCC) - D70.1, T45.1X5A; Malignant neoplasm of lower-outer quadrant of right breast of female, estrogen receptor negative (HCC) - C50.511, Z17.1; BRCA1 positive - Z15.01, Z15.09; Closed fracture of metatarsal bone - S92.309A; Dichorionic diamniotic twin pregnancy in third trimester - O30.043; Dysplasia of cervix, low grade (CIN 1) - N87.0; Gestational hypertension - O13.9; HGSIL on cytologic smear of cervix - R87.613; Lump of right breast - N63.10; NSVD (normal spontaneous vaginal delivery) - O80; Morbid (severe) obesity due to excess calories (HCC) - E66.01; Other psychological or physical stress, not elsewhere classified(V62.89) - Z73.3; Tinea - B35.9; RSV infection - B97.4; Positive GBS test - B95.1; PMDD (premenstrual dysphoric disorder) - F32.81; Twin pregnancy, twins discordant in third trimester - O30.003, O36.5930; Well woman exam with routine gynecological exam - Z01.419; Vaginal discharge - N89.8",,calcium carbonate (TUMS ORAL); cannabidioL 100 mg/mL oral solution,1,4/10/2021,1
+372,,,8170443,1929-04-08,F,2021-09-30,Detected,None,None,None,None,None,None,Never Assessed,,,,,,,2,,1
+398,,,519982,1947-09-27,M,2021-09-30,Detected,None,None,36.9 °C (98.5 °F),67,147,(!) 120,Never Smoker,,"Malignant melanoma nos
+Ear problems
+Blood transfusion
+Pneumonia
+Kidney stones
+Osteoarthritis","Blepharitis [H01.009]
+Iris nevus [D31.40]
+Amblyopia [H53.009]
+Esotropia
+Hyperopia [H52.00]
+Rotator cuff rupture
+Shoulder arthritis [M19.019]
+Actinic keratosis [L57.0]
+Personal history of malignant melanoma of skin [Z85.820]
+Other seborrheic keratosis [L82.1]
+Rash and other nonspecific skin eruption [R21]",Blepharitis - H01.009; Iris nevus - D31.40; Hyperopia - H52.00; Shoulder arthritis - M19.019; Actinic keratosis - L57.0; Personal history of malignant melanoma of skin - Z85.820; Other seborrheic keratosis - L82.1; Rash and other nonspecific skin eruption - R21,,aspirin 325 mg oral tablet; codeine-guaiFENesin 10-100 mg/5 mL oral liquid; Ibuprofen 800 mg OR TABS; lisinopril 20 mg oral tablet,1,,1
+404,,,6826732,1998-09-10,F,2021-09-30,Detected,"1.6 m (5' 2.99"")",60.3 kg (133 lb),36.8 °C (98.2 °F),74,101,55,Never Smoker,,"Chorioamnionitis in third trimester
+Fetal cardiac echogenic focus, antepartum, fetus 1
+GBS carrier
+Vaginal delivery","Encounter for supervision of normal first pregnancy in third trimester [Z34.03]
+Fetal cardiac echogenic focus, antepartum, fetus 1 [O35.8XX1]
+GBS carrier [Z22.330]
+Vaginal delivery [O80]
+Single live birth [Z37.0]
+Chorioamnionitis in third trimester [O41.1230]
+Preventative health care [Z00.00]
+IUD threads lost [T83.32XA]",Preventative health care - Z00.00; IUD threads lost - T83.32XA,,cephALEXin 500 mg oral capsule; prenatal vitamins (with calcium) iron-folic acid 27 mg iron- 1 mg oral tablet,1,11/4/2021,1
+406,,,6978978,1998-07-23,F,2021-09-30,Detected,"1.676 m (5' 5.98"")",92.1 kg (203 lb),37 °C (98.6 °F),105,93,49,Never Smoker,,"Ehlers-Danlos syndrome
+Hidradenitis suppurativa","Ehlers-Danlos syndrome [Q79.60]
+Blood type, Rh negative [Z67.91]
+Low-lying placenta [O44.40]
+High-risk pregnancy, third trimester [O09.93]
+ASD (atrial septal defect) [Q21.1]
+Lymphedema [I89.0]
+Gestational HTN, third trimester [O13.3]
+Encounter for Nexplanon removal [Z30.46]
+Hidradenitis suppurativa [L73.2]","Ehlers-Danlos syndrome - Q79.60; High-risk pregnancy, third trimester - O09.93; ASD (atrial septal defect) - Q21.1; Lymphedema - I89.0; Encounter for Nexplanon removal - Z30.46; Hidradenitis suppurativa - L73.2",,"albuterol 90 mcg/actuation inhalation HFA aerosol inhaler; dextromethorphan-guaiFENesin 60-1,200 mg oral tablet extended release 12 hr",1,,1
+442,,,7565059,1975-05-23,M,2021-09-29,Detected,"1.651 m (5' 5"")",55.4 kg (122 lb 2.2 oz),38.2 °C (100.8 °F),122,120,69,Never Smoker,,"DM (diabetes mellitus) (HCC)
+HTN (hypertension)","Diabetic ulcer of left great toe (HCC) [E11.621, L97.529]
+Cellulitis, unspecified cellulitis site [L03.90]
+Sepsis (HCC) [A41.9]
+Osteomyelitis of left foot (HCC) [M86.9]
+Acute osteomyelitis of toe, left (HCC) [M86.172]
+Respiratory failure with hypoxia (HCC) [J96.91]
+Pneumonia due to 2019 novel coronavirus [U07.1, J12.82]
+Essential hypertension [I10]
+Hypoxemia [R09.02]
+Generalized weakness [R53.1]
+Dyspnea on exertion [R06.00]
+...","Diabetic ulcer of left great toe (HCC) - E11.621, L97.529; Cellulitis, unspecified cellulitis site - L03.90; Sepsis (HCC) - A41.9; Osteomyelitis of left foot (HCC) - M86.9; Acute osteomyelitis of toe, left (HCC) - M86.172; Respiratory failure with hypoxia (HCC) - J96.91; Pneumonia due to 2019 novel coronavirus - U07.1, J12.82; Essential hypertension - I10; Hypoxemia - R09.02; Generalized weakness - R53.1; Dyspnea on exertion - R06.00; Pneumonia - J18.9",,"acetaminophen 325 mg oral tablet; amLODIPine 10 mg oral tablet; ascorbic acid (vitamin C) 500 mg oral tablet; aspirin chewable 81 mg oral tablet,chewable; atorvastatin 20 mg oral tablet; benzonatate 100 mg oral capsule; ergocalciferol 50,000 unit oral capsule; ferrous gluconate 324 mg (38 mg iron) oral tablet; glipiZIDE 5 mg oral tablet; insulin detemir U-100 (LEVEMIR FLEXTOUCH U-100 INSULN) 100 unit/mL (3 mL) subcutaneous insulin pen; lisinopriL 20 mg oral tablet; sodium chloride 0.65 % nasal aerosol,spray",4,10/4/2021,1
+454,,,6249307,2009-08-22,M,2021-09-29,Detected,"158 cm (5' 2.21"")",60.1 kg (132 lb 7.9 oz),36.7 °C (98.1 °F),75,114,86,Never Smoker,,"Delayed speech
+Broken arm
+FB bronchus
+Migraine
+Hearing impaired
+Lab test positive for detection of COVID-19 virus","Conductive hearing loss, bilateral [H90.0]
+Concussion with loss of consciousness, initial encounter [S06.0X9A]","Conductive hearing loss, bilateral - H90.0; Concussion with loss of consciousness, initial encounter - S06.0X9A",,"acetaminophen 500 mg oral tablet; diphenhydrAMINE 25 mg oral capsule; naproxen 500 mg oral tablet; ondansetron ODT 4 mg oral tablet,disintegrating; rizatriptan rapid dissolve 5 mg oral tablet,disintegrating",2,11/4/2021,1
+529,,,6960763,1997-08-22,F,2021-09-27,Detected,"1.676 m (5' 6"")",100.2 kg (221 lb),36.8 °C (98.3 °F),94,118,66,Never Smoker,,,"Encounter for supervision of normal first pregnancy in third trimester [Z34.03]
+Late prenatal care [O09.30]
+Supervision of normal pregnancy in third trimester [Z34.93]
+Maternal care for fetal problem in third trimester [O36.93X0]
+Pregnancy complicated by fetal abdominal mass [O35.8XX0]
+Known fetal anomaly, antepartum [O35.9XX0]
+Pregnant and not yet delivered in third trimester [Z34.93]
+...",,,"acetaminophen 325 mg oral tablet; fentaNYL citrate (PF) (SUBLIMAZE) syringe 25-150 mcg; flumazeniL (ROMAZICON) injection 0.2-0.3 mg; ibuprofen 600 mg oral tablet; ketamine in NaCl, iso-osmotic (KETALAR) injection 20-200 mg; midazolam (VERSED) injection 1-10 mg; naloxone (NARCAN) injection 0.2-0.4 mg; norethindrone-ethinyl estradiol (LOESTRIN 1/20 (21)) 1-20 mg-mcg oral tablet; omeprazole 20 mg oral capsule,delayed release(DR/EC); ondansetron (ZOFRAN) injection 4-8 mg; ondansetron 4 mg oral tablet; ondansetron ODT (ZOFRAN ODT) tablet 4-8 mg; ondansetron ODT 4 mg oral tablet,disintegrating; simethicone (MYLICON) suspension 3.333 mg; sodium chloride (NS) 0.9 % infusion",3,11/6/2021,2
+584,,,8167610,1977-03-28,M,2021-09-26,Detected,None,None,36.7 °C (98.1 °F),90,105,(!) 59,Current Some Day Smoker,,Known health problems: none,,,,"acetaminophen 500 mg oral tablet; ibuprofen 600 mg oral tablet; lidocaine 5 % topical adhesive patch,medicated; naproxen 500 mg oral tablet",2,11/4/2021,1
+699,,,8166029,1990-10-01,M,2021-09-25,Detected,"1.88 m (6' 2"")",83 kg (182 lb 15.7 oz),36.8 °C (98.2 °F),99,118,69,Current Every Day Smoker,,,"Cellulitis of left upper extremity [L03.114]
+Sepsis, due to unspecified organism, unspecified whether acute organ dysfunction present (HCC) [A41.9]
+Abscess of left arm [L02.414]",Abscess of left arm - L02.414,,,3,11/9/2021,2
+773,,,6234549,1944-10-19,F,2021-09-21,Detected,"1.626 m (5' 4"")",108 kg (238 lb),35.9 °C (96.6 °F),138,98,51,Former Smoker,25.0,"Fibromyalgia muscle pain
+Severe aortic stenosis
+HTN (hypertension)
+Hypercholesterolemia
+Morbid obesity (HCC)
+Pulmonary HTN (HCC)
+Diabetes mellitus (HCC)
+Chronic diastolic congestive heart failure (HCC)
+Sleep apnea
+Spondylolisthesis
+Fibromyalgia
+Depression
+Disorder of thyroid
+Type 2 diabetes mellitus (HCC)","Lumbosacral radiculopathy [M54.17]
+Spondylolisthesis [M43.10]
+Fibromyalgia [M79.7]
+Morbid obesity due to excess calories (HCC) [E66.01]
+Anaclitic depression [F43.20]
+Fibromyalgia muscle pain [M79.7]
+History of aortic valve stenosis [Z86.79]
+Essential hypertension [I10]
+Mixed hyperlipidemia [E78.2]
+Pulmonary hypertension (HCC) [I27.20]
+Type 2 diabetes mellitus with diabetic neuropathy (HCC) [E11.40]
+...","Lumbosacral radiculopathy - M54.17; Fibromyalgia - M79.7; Morbid obesity due to excess calories (HCC) - E66.01; Anaclitic depression - F43.20; History of aortic valve stenosis - Z86.79; Essential hypertension - I10; Mixed hyperlipidemia - E78.2; Pulmonary hypertension (HCC) - I27.20; Type 2 diabetes mellitus with diabetic neuropathy (HCC) - E11.40; Obstructive sleep apnea syndrome - G47.33; Perennial allergic rhinitis - J30.89; Insomnia - G47.00; Chronic diastolic heart failure (HCC) - I50.32; Obesity hypoventilation syndrome (HCC) - E66.2; Actinic keratosis - L57.0; Adrenal adenoma - D35.00; Vitamin D deficiency - E55.9; Hypothyroidism (acquired) - E03.9; Family history of malignant neoplasm of gastrointestinal tract - Z80.0; Presbycusis - H91.10; Vitamin B12 deficiency - E53.8; Tubular adenoma of colon - D12.6; Leukocytosis - D72.829; Diabetic nephropathy associated with type 2 diabetes mellitus (HCC) - E11.21; Allergy to intravenous contrast media - Z91.041; Chronic pain - G89.29; Nocturia - R35.1; Osteoarthritis of hand - M19.049; S/P TAVR (transcatheter aortic valve replacement) - Z95.2; Atypical ductal hyperplasia of breast - N60.99; Osteoporosis of multiple sites - M81.0; Anemia of unknown etiology - D64.9; Mediastinal lymphadenopathy - R59.0; Diabetic retinopathy associated with type 2 diabetes mellitus (HCC) - E11.319; Dyspepsia - R10.13; Proctitis - K62.89; Constipation, unspecified constipation type - K59.00; Leukocytosis, unspecified type - D72.829; High anion ...",,"acetaminophen 325 mg oral tablet; amLODIPine 10 mg oral tablet; Bacitracin zinc 500 unit/gram topical ointment in packet; cyanocobalamin (VITAMIN B-12) 500 mcg oral tablet; ergocalciferol 50,000 unit oral capsule; famotidine 20 mg oral tablet; GABAPENTIN 300 mg oral capsule; hydrocortisone 2.5 % topical cream; insulin NPH 100 unit/mL subcutaneous suspension; Insulin Regular Human 100 unit/mL (3 mL) subcutaneous insulin pen; levothyroxine 137 mcg oral tablet; lisinopril 40 mg oral tablet; ONETOUCH VERIO TEST STRIPS miscellaneous (misc) strip; polyethylene glycol 17 gram oral powder in packet; pravastatin 40 mg oral tablet; traZODone 100 mg oral tablet",2,11/3/2021,2
+780,,,1411412,1985-03-20,F,2021-09-21,Detected,"1.676 m (5' 6"")",80.7 kg (178 lb),36.9 °C (98.4 °F),99,118,83,Current Every Day Smoker,7.0,"Genital HSV
+Obesity
+Chickenpox
+Anxiety
+Heartburn","History of cesarean section [Z98.891]
+History of infectious disease [Z86.19]
+Herpes simplex virus (HSV) infection [B00.9]
+Methadone dependence (HCC) [F11.20]
+Obesity affecting pregnancy, antepartum [O99.210]
+Opioid dependence in remission (HCC) [F11.21]
+Pregnancy [Z34.90]
+Tobacco use [Z72.0]
+Status post repeat low transverse cesarean section [Z98.891]
+Delivered by cesarean section [Z38.01]
+Cocaine abuse (HCC) [F14.10]
+...",History of infectious disease - Z86.19; Herpes simplex virus (HSV) infection - B00.9; Methadone dependence (HCC) - F11.20; Opioid dependence in remission (HCC) - F11.21; Tobacco use - Z72.0; Status post repeat low transverse cesarean section - Z98.891; Delivered by cesarean section - Z38.01; Cocaine abuse (HCC) - F14.10; Thrombocytopenia (HCC) - D69.6,,"acetaminophen 325 mg oral tablet; docusate sodium 100 mg oral capsule; docusate sodium 100 mg oral capsule; doxycycline monohydrate 100 mg oral capsule; ferrous sulfate 325 mg total salt (65 mg elemental) oral tablet; hydrOXYzine pamoate 25 mg oral capsule; ibuprofen 600 mg oral tablet; ibuprofen 600 mg oral tablet; lidocaine 5 % topical adhesive patch,medicated; methadone 10 mg/5 mL oral solution; oxyCODONE, immediate release, 10 mg oral tablet; polyethylene glycol 17 gram/dose oral powder; ranitidine 150 mg oral tablet",5,11/6/2021,2
+860,,,6447241,2011-11-01,F,2021-09-20,Detected,"141.1 cm (4' 7.55"")",41.6 kg (91 lb 11.2 oz),36.9 °C (98.4 °F),76,109,71,Never Smoker,,,"Normal newborn (single liveborn) [Z38.2]
+Persistent disorder of initiating or maintaining sleep [G47.00]
+Otitis media in pediatric patient [H66.90]
+Primary nocturnal enuresis [N39.44]
+Strep throat [J02.0]
+Anxiety disorder of childhood [F93.8]
+Concussion with no loss of consciousness [S06.0X0A]
+ADHD [F90.9]
+Infection due to 2019 novel coronavirus [U07.1]",Normal newborn (single liveborn) - Z38.2; Persistent disorder of initiating or maintaining sleep - G47.00; Otitis media in pediatric patient - H66.90; Primary nocturnal enuresis - N39.44; Strep throat - J02.0; Anxiety disorder of childhood - F93.8; Concussion with no loss of consciousness - S06.0X0A; ADHD - F90.9; Infection due to 2019 novel coronavirus - U07.1,,"desmopressin (DDAVP) 0.1 mg oral tablet; FLUoxetine 10 mg oral capsule; FLUoxetine 10 mg oral capsule; FLUoxetine 20 mg oral capsule; FLUoxetine 20 mg oral capsule; FLUoxetine 20 mg oral capsule; methylphenidate ER 24 hour 18 mg oral tablet extended release 24hr; methylphenidate ER 24 hour 18 mg oral tablet extended release 24hr; methylphenidate ER 24 hour 18 mg oral tablet extended release 24hr; pediatric multivitamin chewable (FLINTSTONES MULTIVITAMIN) oral tablet,chewable",1,10/16/2021,1
+950,,,6727559,1969-10-31,M,2021-09-16,Detected,None,None,37.5 °C (99.5 °F),96,114,79,Current Every Day Smoker,,,,,,,2,,1
+969,,,6340380,1944-10-20,M,2021-09-16,Detected,"1.854 m (6' 1"")",132.7 kg (292 lb 8 oz),36.5 °C (97.7 °F),96,127,63,Former Smoker,6.0,"Chronic diastolic HF (heart failure), NYHA class 3 (HCC)
+Dyslipidemia
+Atrial fibrillation (HCC)
+CKD (chronic kidney disease)
+Hypertension
+Anemia of chronic kidney failure
+Hyperlipidemia
+Type 2 diabetes mellitus (HCC)
+Hearing loss
+Elevated troponin
+Congestive heart failure (HCC)
+Arrhythmia
+Encounter for extracorporeal dialysis (HCC)
+Pneumonia due to organism
+Shortness of breath
+Heart attack (HCC)","Acute on chronic renal failure (HCC) [N17.9, N18.9]
+CHF (congestive heart failure), NYHA class IV (HCC) [I50.9]
+DM type 2 causing CKD stage 4 (HCC) [E11.22, N18.4]
+DM type 2 causing CKD stage 4 (HCC) [E11.22, N18.4]
+CHF (NYHA class IV, ACC/AHA stage D) (HCC) [I50.9]
+Chronic systolic heart failure (HCC) [I50.22]
+Bradycardia, drug induced [R00.1, T50.905A]
+Hypotension due to drugs [I95.2]
+...","CHF (NYHA class IV, ACC/AHA stage D) (HCC) - I50.84; Chronic systolic heart failure (HCC) - I50.22; Type 2 diabetes, uncontrolled, with renal manifestation (HCC) - E11.29, E11.65; Atrial fibrillation (HCC) - I48.91; Anticoagulated on warfarin - Z79.01; Hypertension - I10; Anemia in other chronic diseases classified elsewhere - D63.8; Morbid obesity with BMI of 40.0-44.9, adult (HCC) - E66.01, Z68.41; Hyperkalemia - E87.5; Orthostasis - I95.1; Elevated troponin - R77.8; Diarrhea - R19.7; Dehydration - E86.0; Diarrhea, unspecified type - R19.7; CKD (chronic kidney disease) stage 5, GFR less than 15 ml/min (HCC) - N18.5; Aspiration into airway, initial encounter - T17.908A; Hypernatremia - E87.0; Pneumonia of left lower lobe due to infectious organism - J18.9; Permanent atrial fibrillation (HCC) - I48.21; Acute kidney injury (HCC) - N17.9; Congestive heart failure, unspecified HF chronicity, unspecified heart failure type (HCC) - I50.9; Stage 5 chronic kidney disease not on chronic dialysis (HCC) - N18.5; 2019 novel coronavirus disease (COVID-19) - U07.1; Acute on chronic anemia - D64.9; Weakness - R53.1",,There are too many medications to display. Please see the patient's chart for a complete list of medications.,2,10/22/2021,1
+985,,,564447,1975-11-06,F,2021-09-16,Detected,"1.66 m (5' 5.35"")",60.9 kg (134 lb 4.2 oz),36.2 °C (97.2 °F),90,104,66,Former Smoker,0.2,"Lupus (systemic lupus erythematosus) (HCC)
+Hypertension
+Lupus nephritis (HCC)
+Antiphospholipid antibody syndrome (HCC)
+History of Cytoxan exposure
+Sleep apnea
+Irritable bowel syndrome
+Anxiety state
+Hemorrhagic diathesis (HCC)
+Congestive heart failure (HCC)
+Renal failure","Renal failure [N19]
+WPW (Wolff-Parkinson-White syndrome) [I45.6]
+Kidney transplanted [Z94.0]
+Immunosuppressive management encounter following kidney transplant [Z79.899, Z94.0]
+Abnormal coagulation profile [R79.1]
+Other pulmonary embolism and infarction [I26.99]
+DVT of lower extremity (deep venous thrombosis) (HCC) [I82.409]
+Hypomagnesemia [E83.42]
+Hypophosphatemia [E83.39]
+Prophylactic antibiotic [Z79.2]
+...","WPW (Wolff-Parkinson-White syndrome) - I45.6; Kidney transplanted - Z94.0; Immunosuppressive management encounter following kidney transplant - Z79.899, Z94.0; History of antiphospholipid antibody syndrome - Z86.2; Long term current use of anticoagulant therapy - Z79.01; Metabolic bone disease - E88.9, M90.80; Essential hypertension, benign - I10; SLE (systemic lupus erythematosus) (HCC) - M32.9; GERD (gastroesophageal reflux disease) - K21.9; Kidney transplant rejection - T86.11; Hyperuricemia - E79.0; Health maintenance examination - Z00.00; History of Cytoxan exposure - Z92.21; Proteinuria - R80.9; Acidemia - E87.2; Cervical dysplasia - N87.9; CIN III (cervical intraepithelial neoplasia III) - D06.9; VIN III (vulvar intraepithelial neoplasia III) - D07.1; Vaginal bleeding - N93.9; Acute hypoxemic respiratory failure (HCC) - J96.01; Volume overload - E87.70; AKI (acute kidney injury) (HCC) - N17.9; Acute gout due to renal impairment involving toe of left foot - M10.372; Heart failure with preserved ejection fraction (HCC) - I50.30; Neck swelling - R22.1; Cervical intraepithelial neoplasm - N87.9; ARDS (adult respiratory distress syndrome) (HCC) - J80; Pneumonia due to COVID-19 virus - U07.1, J12.82; At risk for malnutrition - Z91.89; Atrial fibrillation with RVR (HCC) - I48.91; Heart failure with acute decompensation, type unknown (HCC) - I50.9; Anemia - D64.9; Anxiety state - F41.1; Pain - R52; Hemorrhagic shock (HCC) - R57.8; Hematoma of bladder wall - S37.22XA; Bladde...",65 to 70,There are too many medications to display. Please see the patient's chart for a complete list of medications.,2,,1
+1008,,,7881368,1993-02-02,F,2021-09-15,Detected,"1.651 m (5' 5"")",121.6 kg (268 lb),37.2 °C (99 °F),87,112,68,Never Smoker,,,"GAD (generalized anxiety disorder) [F41.1]
+ADHD, predominantly inattentive type [F90.0]","GAD (generalized anxiety disorder) - F41.1; ADHD, predominantly inattentive type - F90.0",,dextroamphetamine-amphetamine (ADDERALL) 15 mg oral tablet,1,10/25/2021,1
+1034,,,1110919,1954-12-06,F,2021-09-15,Detected,"1.702 m (5' 7"")",106.4 kg (234 lb 8 oz),36.9 °C (98.5 °F),85,124,72,Former Smoker,36.0,"History of Bell's palsy
+Coronary artery disease
+Aortic stenosis
+Carotid artery disease (HCC)
+CKD (chronic kidney disease) stage 3, GFR 30-59 ml/min (HCC)
+Asthma
+Chronic urticaria
+Essential hypertension
+History of tobacco abuse
+History of methamphetamine abuse (HCC)
+Pacemaker","Severe aortic stenosis [I35.0]
+CAD (coronary artery disease) [I25.10]
+Hypertension [I10]
+Hyperlipidemia [E78.5]
+Tobacco abuse [Z72.0]
+Methamphetamine use (HCC) [F15.10]
+Asthma [J45.909]
+Carotid stenosis [I65.29]
+History of tobacco abuse [Z87.891]
+History of methamphetamine abuse (HCC) [F15.11]
+History of Bell's palsy [Z86.69]
+Essential hypertension [I10]
+Coronary artery disease [I25.10]
+...","Severe aortic stenosis - I35.0; CAD (coronary artery disease) - I25.10; Hypertension - I10; Hyperlipidemia - E78.5; Tobacco abuse - Z72.0; Methamphetamine use (HCC) - F15.10; Asthma - J45.909; Carotid stenosis - I65.29; History of tobacco abuse - Z87.891; History of methamphetamine abuse (HCC) - F15.11; History of Bell's palsy - Z86.69; Essential hypertension - I10; Coronary artery disease - I25.10; CKD (chronic kidney disease) stage 3, GFR 30-59 ml/min (HCC) - N18.30; Chronic urticaria - L50.8; Carotid artery disease (HCC) - I77.9; Aortic stenosis - I35.0; Aortic stenosis, severe - I35.0; Nonrheumatic mitral valve stenosis - I34.2; Coronary artery disease of native artery of native heart with stable angina pectoris (HCC) - I25.118; CKD (chronic kidney disease) stage 3, GFR 30-59 ml/min (HCC) - N18.30; Hyperlipidemia - E78.5; Benign essential hypertension - I10; S/P TAVR (transcatheter aortic valve replacement) - Z95.2; Moderate aortic stenosis - I35.0; COPD (chronic obstructive pulmonary disease) (HCC) - J44.9; Chronic diastolic congestive heart failure (HCC) - I50.32; Chronic renal insufficiency, stage 4 (severe) (HCC) - N18.4; Disorder of adrenal gland, unspecified (HCC) - E27.9; Long term (current) use of systemic steroids - Z79.52; Angio-edema - T78.3XXA; Chronic dermatitis - L30.9; Complete heart block (HCC) - I44.2; Heart block - I45.9; Acute COVID-19 - U07.1; Heart failure with preserved ejection fraction (HCC) - I50.30; Antibiotic long-term use - Z79.2; Ventricula...",70 to 75,"acetaminophen 325 mg oral tablet; albuterol 90 mcg/actuation inhalation HFA aerosol inhaler; aspirin EC 81 mg oral tablet,delayed release (DR/EC); atorvastatin 80 mg oral tablet; fluticasone propion-salmeteroL 250-50 mcg/dose inhalation blister with device; furosemide 40 mg oral tablet; gabapentin 300 mg oral capsule; isosorbide mononitrate CR 60 mg oral tablet extended release 24 hr; metoprolol succinate 25 mg oral tablet extended release 24 hr; nitroglycerin 0.4 mg sublingual tablet, sublingual; oxyCODONE (immediate release) 5 mg oral tablet; polyethylene glycol 17 gram/dose oral powder; potassium chloride 10 mEq oral tablet,ER particles/crystals; tiotropium 18 mcg inhalation capsule, w/inhalation device",5,11/1/2021,1
+1053,,,7426140,1988-03-26,M,2021-09-14,Detected,"1.88 m (6' 2"")",(!) 113.4 kg (250 lb),36.7 °C (98.1 °F),82,143,85,Former Smoker,8.0,,"Second degree burn of back of hand [T23.269A]
+Second degree burn of knee [T24.229A]",Second degree burn of back of hand - T23.269A; Second degree burn of knee - T24.229A,,"EPINEPHrine 0.3 mg/0.3 mL injection auto-injector; famotidine 20 mg oral tablet; fluticasone propionate 50 mcg/actuation nasal spray,suspension; predniSONE 5 mg oral tablet",1,11/12/2021,1
+1057,,,6160340,1969-03-27,M,2021-09-14,Detected,"1.702 m (5' 7"")",97.5 kg (215 lb),36.7 °C (98.1 °F),83,157,68,Former Smoker,,"2019 novel coronavirus disease (COVID-19)
+Diabetes mellitus type 2 in obese (HCC)
+Hypertension
+Hyperlipidemia
+Bell's palsy
+Psoas syndrome","Mixed hyperlipidemia [E78.2]
+Diabetes mellitus type 2 in obese (HCC) [E11.69, E66.9]
+Asthma
+Acute hypoxemic respiratory failure due to COVID-19 (HCC) [U07.1, J96.01]
+Pneumonia due to COVID-19 virus [U07.1, J12.82]
+Acute respiratory failure with hypoxia (HCC) [J96.01]","Mixed hyperlipidemia - E78.2; Diabetes mellitus type 2 in obese (HCC) - E11.69, E66.9; Pneumonia due to COVID-19 virus - U07.1, J12.82",,"acetaminophen 325 mg oral tablet; aspirin EC 81 mg oral tablet,delayed release (DR/EC); dulaglutide (TRULICITY) 0.75 mg/0.5 mL subcutaneous pen injector; insulin glargine U-300 conc (TOUJEO SOLOSTAR U-300 INSULIN) 300 unit/mL (1.5 mL) subcutaneous insulin pen; LORazepam 0.5 mg oral tablet; losartan 25 mg oral tablet; rosuvastatin 40 mg oral tablet",2,10/15/2021,1
+1081,,,7791583,2009-04-21,F,2021-09-14,Detected,"164 cm (5' 4.57"")",56 kg (123 lb 7.3 oz),37.3 °C (99.1 °F),(!) 107,98,60,Never Smoker,,"Acne
+History of sexual violence
+Transgender",,,,,1,11/8/2021,1
+1083,,,6397943,1982-10-11,F,2021-09-14,Detected,"1.6 m (5' 3"")",83.9 kg (185 lb),36.7 °C (98.1 °F),88,126,84,Current Some Day Smoker,,"Migraines
+Chronic pelvic pain in female
+Ekbom's delusional parasitosis (HCC)
+Advanced maternal age during pregnancy","Low back pain with sciatica [M54.40]
+Mixed anxiety depressive disorder [F41.8]
+Abdominal pain [R10.9]
+Anxiety [F41.9]
+Arthralgia of hip [M25.559]
+Back pain [M54.9]
+Encounter for counseling [Z71.9]
+Allergic bronchitis [J45.909]
+Cervical dysplasia [N87.9]
+Constipation [K59.00]
+Elevated blood pressure [IMO0001]
+Palpitations [R00.2]
+Migraine with aura [G43.109]
+Opioid dependence with opioid-induced mood disorder (HCC) [F11.24]
+...","Low back pain with sciatica - M54.40; Mixed anxiety depressive disorder - F41.8; Abdominal pain - R10.9; Arthralgia of hip - M25.559; Back pain - M54.9; Allergic bronchitis - J45.909; Cervical dysplasia - N87.9; Constipation - K59.00; Elevated blood pressure - IMO0001; Palpitations - R00.2; Migraine with aura - G43.109; Tenosynovitis of hand - M65.9; Opioid dependence on agonist therapy (HCC) - F11.20; Pelvic pain in female - R10.2; Sacroiliac joint pain - M53.3; Pudendal neuralgia - G58.8; High risk social situation - Z60.9; Ekbom's delusional parasitosis (HCC) - F22; Opioid use disorder, moderate, in sustained remission, on maintenance therapy (HCC) - F11.21; Post traumatic stress disorder (PTSD) - F43.10; Tobacco use disorder - F17.200; Attention deficit hyperactivity disorder (ADHD) - F90.9; Gastroesophageal reflux disease without esophagitis - K21.9; Vision disturbance - H53.9; Temporomandibular joint disorder - M26.609; Sleep disorder - G47.9; Postnasal drip - R09.82; Narcotic drug use - F11.90; Iron deficiency anemia - D50.9; History of postpartum hemorrhage - Z87.59; Essential hypertension - I10; Difficulty sleeping - G47.9; Chronic pain - G89.29; Buprenorphine maintenance treatment complicating pregnancy (HCC) - O99.320, F11.20; Family relationship problem - Z63.9; Diarrhea - R19.7",,"albuterol 90 mcg/actuation inhalation HFA aerosol inhaler; buprenorphine HCL 8 mg sublingual tablet, sublingual; buprenorphine HCL 8 mg sublingual tablet, sublingual; buprenorphine HCL 8 mg sublingual tablet, sublingual; cloNIDine HCL 0.1 mg oral tablet; GABAPENTIN 600 mg oral tablet; lisinopriL 20 mg oral tablet; ondansetron ODT 4 mg oral tablet,disintegrating; PANTOPRAZOLE 40 mg oral tablet,delayed release (DR/EC); SUMATRIPTAN 100 mg oral tablet",1,3/20/2021,1
+1132,,,6906470,1991-01-26,M,2021-09-13,Detected,1.829 m (6'),54.7 kg (120 lb 8 oz),36.8 °C (98.2 °F),94,112,72,"Smoker, Current Status Unknown",5.0,"Vitiligo
+Methamphetamine abuse (HCC)
+Systolic dysfunction
+GERD (gastroesophageal reflux disease)
+Hyperlipidemia
+Severe protein-calorie malnutrition (HCC)
+Constipation
+Type 1 diabetes mellitus (HCC)","Closed fracture of left tibial plateau with routine healing [S82.142D]
+DKA, type 1 (HCC) [E10.10]
+Type 1 diabetes mellitus with ketoacidosis and without coma (HCC) [E10.10]
+Dehydration [E86.0]
+Hyperkalemia [E87.5]
+Type I diabetes mellitus (HCC) [E10.9]
+HLD (hyperlipidemia) [E78.5]
+Tobacco dependence [F17.200]
+Diabetic ketoacidosis without coma associated with type 1 diabetes mellitus (HCC) [E10.10]
+Hypovolemia [E86.1]
+...","Type I diabetes mellitus (HCC) - E10.9; HLD (hyperlipidemia) - E78.5; Tobacco dependence - F17.200; Acute renal failure (ARF) (HCC) - N17.9; Vitiligo - L80; Severe protein-calorie malnutrition (HCC) - E43; Non compliance with medical treatment - Z91.19; Hematuria - R31.9; Proteinuria - R80.9; Systolic dysfunction - I51.9; Tachycardia - R00.0; Facial abscess - L02.01; History of methamphetamine use - Z87.898; Slow transit constipation - K59.01; Hyperglycemia - R73.9; Impetigo - L01.00; Diabetic ketosis (HCC) - E13.10; Diabetic ketoacidosis with coma associated with type 1 diabetes mellitus (HCC) - E10.11; DKA, type 1, not at goal (HCC) - E10.10; Acute COVID-19 - U07.1; Diabetic ketoacidosis without coma associated with type 1 diabetes mellitus (HCC) - E10.10; Sepsis, due to unspecified organism, unspecified whether acute organ dysfunction present (HCC) - A41.9; 2019 novel coronavirus disease (COVID-19) - U07.1",,"acetaminophen 325 mg oral tablet; Blood Sugar Diagnostic (FREESTYLE LITE STRIPS) miscellaneous (misc) strip; ferrous sulfate 325 mg total salt (65 mg elemental) oral tablet; glucagon (GLUCAGON) 1 mg injection recon soln; insulin aspart U-100 100 unit/mL (3 mL) subcutaneous insulin pen; insulin degludec 100 unit/mL (3 mL) subcutaneous insulin pen; Insulin Syringe-Needle U-100 (INSULIN SYRINGE) 1 mL 29 gauge x 1/2"" miscellaneous (misc) syringe; ketoconazole 2 % topical cream; mupirocin 2 % topical ointment",2,1/15/2021,1
+1158,,,8159959,1982-07-19,F,2021-09-12,Detected,"1.68 m (5' 6.14"")",108.5 kg (239 lb 4.8 oz),36.9 °C (98.4 °F),95,153,(!) 94,Never Smoker,,"DM hyperosmolarity type II, uncontrolled (HCC)
+Pneumonia due to 2019 novel coronavirus
+Acute respiratory distress syndrome (ARDS) due to COVID-19 virus (HCC)
+History of extracorporeal life support (ECLS)
+MSSA (methicillin susceptible Staphylococcus aureus) pneumonia (HCC)","Acute respiratory distress syndrome (ARDS) due to COVID-19 virus (HCC) [U07.1, J80]
+DM hyperosmolarity type II, uncontrolled (HCC) [E11.00, E11.65]
+Adult BMI 40.0-44.9 kg/sq m (HCC) [Z68.41]
+Pneumonia due to 2019 novel coronavirus [U07.1, J12.82]
+History of extracorporeal life support (ECLS) [Z92.81]
+OHSU RESEARCH PROTOCOL PATIENT (RESPRO)
+MSSA (methicillin susceptible Staphylococcus aureus) pneumonia (HCC) [J15.211]
+...","DM hyperosmolarity type II, uncontrolled (HCC) - E11.00, E11.65; Adult BMI 40.0-44.9 kg/sq m (HCC) - Z68.41; Acute deep vein thrombosis (DVT) of non-extremity vein - I82.90; Wound of skin - T14.8XXA; Blood loss anemia - D50.0; Weakness - R53.1; LVH (left ventricular hypertrophy) - I51.7; Hypertension - I10",55 to 60,"apixaban (ELIQUIS) 5 mg oral tablet; Blood Sugar Diagnostic (ONETOUCH VERIO TEST STRIPS) miscellaneous (misc) strip; cholecalciferol (vitamin D3) 10 mcg/5 mL (400 unit/5 mL) oral liquid; cyanocobalamin 500 mcg oral tablet; empagliflozin 10 mg oral tablet; empty container (SHARPS CONTAINER) miscellaneous (misc) misc; gabapentin 300 mg oral capsule; glucagon (GLUCAGON EMERGENCY KIT (HUMAN)) 1 mg injection recon soln; insulin glargine (LANTUS SOLOSTAR U-100 INSULIN) 100 unit/mL (3 mL) subcutaneous insulin pen; insulin glargine 100 unit/mL (3 mL) subcutaneous insulin pen; Insulin Needles (Disposable) (BD INSULIN PEN NEEDLE UF) 29 gauge x 1/2"" miscellaneous (misc) needle; lancets 33 gauge miscellaneous (misc) misc; levonorgestreL (MIRENA) 20 mcg/24 hours (7 yrs) 52 mg intrauterine intrauterine device; lisinopriL-hydrochlorothiazide 10-12.5 mg oral tablet; melatonin 3 mg oral capsule; zinc acetate 25 mg (zinc) oral capsule",2,,1

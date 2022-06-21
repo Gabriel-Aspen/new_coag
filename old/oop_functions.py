@@ -1,3 +1,4 @@
+from matplotlib import collections
 import pandas as pd
 import numpy as np
 from name_dictionary import *
@@ -70,23 +71,33 @@ class Collection():
         df.covid19_component_value = df.covid19_component_value.map(result_dict)
 
         # height - convert all to just cm
-        mixed = df.height.str.split('m', n=1, expand = True)[0]
-        mixed.replace('None',np.NaN, inplace=True)
-        mixed_labeled = mixed.str.split(' ', n=1, expand = True)
-        mixed_labeled.loc[mixed_labeled[1] == '', [0]] = pd.to_numeric(
-            mixed_labeled.loc[mixed_labeled[1] == '', [0]][0]).mul(100)
-        try:
-            df.height = pd.to_numeric(mixed_labeled[0])
-        except ValueError:
-            pass # fix this
+        #mixed = df.height.str.split('m', n=1, expand = True)[0]
+        df.height = df.height.apply(lambda x: re.split(' m| cm', x)[0])
+        df.height.replace('None',np.NaN, inplace=True)
+
+
+        # mixed_labeled = mixed.str.split(' ', n=1, expand = True)
+        # mixed_labeled.loc[mixed_labeled[1] == '', [0]] = pd.to_numeric(
+        #     mixed_labeled.loc[mixed_labeled[1] == '', [0]][0]).mul(100)
+        # try:
+        #     df.height = pd.to_numeric(mixed_labeled[0])
+        # except ValueError:
+        #     pass # fix this
 
         # weight - display only kg, remove the warning flag (!)
-        mixed = df.weight.str.split('kg', n=1, expand = True)[0]
-        mixed = mixed.str.replace('(!)', '', regex = False)
-        mixed.replace('None',np.NaN, inplace=True)
-        df.weight = mixed
+        df.weight = df.weight.str.split(' kg').str[0]
+        df.weight = df.weight.replace('(!) ', '', regex = False)
+        df.weight.replace('None',np.NaN, inplace=True)
+        # mixed = df.weight.str.split('kg')[0]
+        # mixed = mixed.str.replace('(!)', '', regex = False)
+        # mixed.replace('None',np.NaN, inplace=True)
+        # df.weight = mixed
 
         # temp - display only celsius, remove the warning flag (!)
+        df.temp = df.temp.str.split(' °C').str[0]
+        df.temp = df.temp.replace('(!) ', '', regex = False)
+
+
         mixed = df.temp.str.split('°C', n=1, expand = True)[0]
         mixed = mixed.str.replace('(!)', '', regex = False)
         mixed.replace('None',np.NaN, inplace=True)

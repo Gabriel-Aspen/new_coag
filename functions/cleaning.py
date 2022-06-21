@@ -1,21 +1,29 @@
+import warnings
+warnings.filterwarnings("ignore")
+warnings.simplefilter(action='ignore', category=FutureWarning)
 import pandas as pd
 import numpy as np
 import re
 import warnings
 warnings.filterwarnings("ignore")
+from name_dictionary import name_dict
 
-def clean_data(DATA_PATH):
+def column_cleanup(df):
+    '''
+    Clean up column names so manipulation is easier
+    '''
+    df.columns = df.columns.str.lower() #lowercase
+    df.columns = df.columns.str.replace('(','').str.replace(')','') #remove parenthesis
+    df.columns = df.columns.str.replace(' ','_').str.lower() #remove whitespace
+    df = df.rename(columns = {"#":"number"}) # the "#" symbol doesn't play well with python, rename to "number"
+    return df
 
-    df = pd.read_excel(DATA_PATH, converters={'MRN': str}, parse_dates=['Order Date', 'Last ED Visit'])
-
-    def column_cleanup(df):
-        # clean up column names - manipulation is easier
-        df.columns = df.columns.str.lower() #lowercase
-        df.columns = df.columns.str.replace('(','').str.replace(')','') #remove parenthesis
-        df.columns = df.columns.str.replace(' ','_').str.lower() #remove whitespace
-        df = df.rename(columns = {"#":"number"}) # the "#" symbol doesn't play well with python, rename to "number"
-        return df
-    column_cleanup(df)
+def format_demographics(df):
+    '''
+    Format demographics data to appropriate datatype
+    '''
+    # df = pd.read_excel(DATA_PATH, converters={'MRN': str}, parse_dates=['Order Date', 'Last ED Visit'])
+    # df = column_cleanup(df)
 
     sex_dict = {
         'M': '1',
@@ -71,5 +79,40 @@ def clean_data(DATA_PATH):
     ef_series = ef_series.astype(int)
     ef_series.replace(1000, np.NaN, inplace=True)
     df.last_ef_value = ef_series
+
+    return df
+
+
+def format_medmedhx(df):
+    '''
+    Clearn missing med history and medications and squash all medical history into one searchable column
+    '''
+
+    # df = format_demographics(df)
+
+    # df.rename(columns=name_dict, inplace = True)
+
+    df.fillna({'medical_history': "None", 'diagnosis_from_problem_list': 'None', 'pmh': 'None'}, inplace = True)
+
+    df.current_medications.fillna('None', inplace = True)
+
+    df['all_hx'] = df.medical_history + " " + df.diagnosis_from_problem_list + " " + df.pmh
+    df['all_hx'] = df['all_hx'].str.replace("\n", " ")
+
+    return df
+
+def rename_columns(df):
+    '''
+    Rename columns to the ones that RedCap likes
+    '''
+    df.rename(columns=name_dict, inplace = True)
+
+    return df
+
+def clean_data(df):
+    df = column_cleanup(df)
+    df = format_demographics(df)
+    df = format_medmedhx(df)
+    df = rename_columns(df)
 
     return df

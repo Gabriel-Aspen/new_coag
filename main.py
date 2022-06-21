@@ -1,20 +1,37 @@
 import pandas as pd
 import numpy as np
+import re
+import warnings
+warnings.filterwarnings("ignore")
+from datetime import datetime
+from uuid import uuid4
+import os
+
 from name_dictionary import *
-from oop_functions import *
-import datetime
+from functions.cleaning import clean_data
+from functions.processing import process_data
+from functions.exporting import export_data
+from functions.preprocessing import preprocess_data
+from file_explorer import filesearch
 
-FILE_PATH = "datasets/month_followup.xlsx"
+FILEPATH = filesearch(title = 'Select an Input File')
+DATA_PATH = "datasets/month_followup.xlsx"
 TEMPLATE_PATH = "import_template.csv"
-OUTPUT_PATH = "test123.csv"
-EVENT_NAME = "initial_collection_arm_1"
-MRN_ROSTER_PATH = 'test_roster.xlsx'
+EXPORT_PATH = "test_files/"
+EVENT_NAME = "followup"
 
 
-df = pd.read_excel(FILE_PATH, converters={'MRN': str})
+timestamp = datetime.now().strftime('%Y-%m-%d%H-%M-%S')
+run_name = EVENT_NAME + '-' + timestamp
+os.mkdir('test_files/{}'.format(run_name))
+
+# raw_df = pd.read_excel(DATA_PATH, converters={'MRN': str}, parse_dates=['Order Date', 'Last ED Visit'])
+raw_df = pd.read_excel(DATA_PATH)
 template = pd.read_csv(TEMPLATE_PATH)
-dataframe = Collection(df = df, template = template, roster_path=MRN_ROSTER_PATH, event= EVENT_NAME)
-# mrn_roster = pd.read_csv(MRN_ROSTER_PATH, converters={'mrn': str})
 
-dataframe.export_data(output_path=OUTPUT_PATH)
-print("{} - Complete".format(FILE_PATH))
+preprocessed_data, ed_df, med_df = preprocess_data(raw_df, drop_duplicates=False)
+clean_df = clean_data(preprocessed_data)
+df = process_data(clean_df, template)
+export_data(df, event=EVENT_NAME, export_path= EXPORT_PATH + run_name + "/data.csv")
+ed_df.to_csv(EXPORT_PATH +run_name + "/recent_ed_visits.csv")
+med_df.to_csv(EXPORT_PATH +run_name + "/missing_meds.csv")

@@ -6,6 +6,7 @@ warnings.filterwarnings("ignore")
 from name_dictionary import *
 from functions.cleaning import clean_data
 from functions.processing import process_data
+from csv import writer
 
 missing_values_dropped = 0
 negatives_dropped = 0
@@ -20,11 +21,11 @@ def remove_negatives(df):
     '''
     missing_values_dropped = df["COVID19 Component Value"].isna().sum()
     df = df.dropna(how='any', subset=['COVID19 Component Value'], axis = 0) # drop missing component values
-    print("Missing test removed: {}".format(missing_values_dropped))
+    print("Found {} patients with missing tests".format(missing_values_dropped))
 
     negatives_dropped = len(df[df["COVID19 Component Value"] != "Detected"])
     df = df.drop(df[df["COVID19 Component Value"] != 'Detected'].index) # drop all non-detected (non-positive)
-    print("Negatives removed: {}".format(negatives_dropped))
+    print("Found {} patients with negative covid tests".format(negatives_dropped))
     
     return df
 
@@ -34,14 +35,27 @@ def remove_duplicates(df):
     '''
     initial = len(df)
     df = df.drop_duplicates(subset = ["MRN"])
-    print("Duplicate patients removed: {}".format(initial-len(df)))
+    print("Found {} duplicate patients".format(initial-len(df)))
     return df
 
 def check_previous_runs(df):
     '''
     Check a roster of previously entered patients and drop if they have already been recorded
     '''
-    return None
+    with open('patient_roster.csv', 'r') as fp:
+        s = fp.read()
+
+    valid_mrns = []
+    for mrn in df.MRN:
+        if str(mrn) not in s:
+            valid_mrns.append(mrn)
+    print("Found {} patients previously analyzed".format(len(df) - len(valid_mrns)))
+    if valid_mrns:
+        with open('patient_roster.csv', 'a+') as fp:
+            writer_object = writer(fp)
+            writer_object.writerow(valid_mrns)
+    df = df.loc[df['MRN'].isin(valid_mrns)]
+    return df
 
 def flag_ed_patients(df):
     '''
@@ -69,9 +83,11 @@ def preprocess_data(raw_df, drop_duplicates = True):
     '''
     add removed patients as an output to this
     '''
+    print("Raw number of patients: {}".format(len(raw_df)))
     df = remove_negatives(raw_df)
     if drop_duplicates == False:
         df = remove_duplicates(df)
+    df = check_previous_runs(df)
     print("Total patients removed: {}".format(len(raw_df) - len(df)))
     ed_df = flag_ed_patients(df)
     med_df = flag_missing_meds(df)

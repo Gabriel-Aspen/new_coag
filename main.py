@@ -12,21 +12,22 @@ from functions.cleaning import clean_data
 from functions.processing import process_data
 from functions.exporting import export_data
 from functions.preprocessing import preprocess_data
-from file_explorer import filesearch
+# from file_explorer import main_loop
 
-FILEPATH = filesearch(title = 'Select an Input File')
-DATA_PATH = "datasets/month_followup.xlsx"
+# DATA_PATH = filesearch(title = 'Select an Input File')
+DATA_PATH = "datasets/test_collection.xlsx"
 TEMPLATE_PATH = "import_template.csv"
 EXPORT_PATH = "test_files/"
 EVENT_NAME = "followup"
 
+SHEET_NAME = "Sheet3"
 
 timestamp = datetime.now().strftime('%Y-%m-%d%H-%M-%S')
 run_name = EVENT_NAME + '-' + timestamp
 os.mkdir('test_files/{}'.format(run_name))
 
-# raw_df = pd.read_excel(DATA_PATH, converters={'MRN': str}, parse_dates=['Order Date', 'Last ED Visit'])
-raw_df = pd.read_excel(DATA_PATH)
+raw_df = pd.read_excel(DATA_PATH, converters={'MRN': str}, parse_dates=['Order Date', 'Last ED Visit'], sheet_name = SHEET_NAME)
+# raw_df = pd.read_excel(DATA_PATH)
 template = pd.read_csv(TEMPLATE_PATH)
 
 preprocessed_data, ed_df, med_df = preprocess_data(raw_df, drop_duplicates=False)
